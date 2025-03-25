@@ -9,6 +9,7 @@ I turn **logic into code** and **ideas into reality**—one bug at a time. 🐞�
 - 🚀 **Open Source Enthusiast**: Sharing my journey, projects, and insights on **GitHub**
 - 🎨 **Creative Thinker**: Exploring **Drawing & Data Visualization**
 - 🔥 **Future Innovator**: Building a **Java-based social platform**—stay tuned! 🏗️
+- 🌐 **Web Explorer**: Currently learning HTML to dive into web development!
 
 ### 💡 Fun Facts About Me
 - 🖥️ I see **segmentation faults** more than my own reflection! 😆
