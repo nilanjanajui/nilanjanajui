@@ -33,6 +33,6 @@ I turn **logic into code** and **ideas into reality**—one bug at a time. 🐞�
 💌 Email: [nilanjana.csecu@gmail.com](mailto:nilanjana.csecu@gmail.com)  
 🐦 Twitter: [Nilanjana Jui](https://x.com/i/flow/login?redirect_after_login=%2FNilanjana_Jui04)  
 💼 LinkedIn: [Nilanjana Das Jui](https://www.linkedin.com/in/nilanjana-jui-759402286/)  
-
+📘 Facebook: [Nilanjana Jui](https://www.facebook.com/share/1ESuwQJ5bR/)
 
 💡 *"Code is poetry, debugging is an art, and GitHub is my canvas."* 🎨🚀
