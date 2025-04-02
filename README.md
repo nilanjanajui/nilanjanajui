@@ -1,4 +1,5 @@
-## 👋 Hey, World! I'm Nilanjana Das Jui! 🚀
+## 👋 Hey, World! 
+## I'm Nilanjana Das Jui! 🚀
 
 ### 🌟 Who Am I?
 A **Computer Science & Engineering explorer** at **CU**, fueled by **curiosity, creativity, and caffeine!** ☕🚀
