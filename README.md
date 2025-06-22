@@ -1,4 +1,9 @@
 # 👋 Hello, Universe!  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmM3dGtpY3JweXBsOXAwb2RiMWw0c2dlcG5leDhscmUyeWd6bGw1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abooVPgeGpknXpu/giphy.gif" width="300" alt="typing gif" />
+</p>
+
 ## I’m Nilanjana Das Jui — on a mission to build and create. 🚀  
 
 
