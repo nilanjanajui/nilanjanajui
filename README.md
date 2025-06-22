@@ -20,6 +20,7 @@ Hi there! I'm a passionate **Computer Science & Engineering** student at **CU**,
 I turn logic into code and imagination into innovation—one bug at a time. 🐞💡
 
 <p align="center">
+   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="130" alt="typing gif" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXpoYjhxbHExajc3M2lvenM1NnJ3eTZ3bXRsbzYyc2plMXQxdm9xcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif" width="170" alt="typing gif" />
 </p>
 
