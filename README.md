@@ -2,7 +2,10 @@
 ## I'm Nilanjana Das Jui! 🚀  
 
 > _"Code is poetry, debugging is an art, and GitHub is my canvas."_ 🎨💻  
-
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="150" alt="waving hand gif" />
+</p>
 ---
 
 ### 🌟 Who Am I?
