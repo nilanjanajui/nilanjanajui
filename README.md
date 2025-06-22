@@ -119,8 +119,6 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 Want to collaborate, code, or just say hi? Let's connect:
 
-### 🤝 Let's Connect
-
 <p align="left">
   <a href="mailto:nilanjana.csecu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
