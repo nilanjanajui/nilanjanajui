@@ -53,7 +53,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 - 🗄️ I once dreamed about **ER diagrams** and woke up trying to normalize my furniture!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN1a2w3NTJlc3M0a3U0Z2JoaXB3cDYxbTIzbnZodDhkczFsZThtaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fNBFa6NCMeZJm/giphy.gif" width="300" alt="funny gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpjMGpodW14OTdra3Bnbm41NGJ0NjcweWFyYXptcWcxdjI1OWZ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vlYBYMFArzuOk/giphy.gif" width="300" alt="funny gif" />
 </p>
 
 
