@@ -18,7 +18,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-<details>
+
 <summary>🎯 <strong>What I Love Doing</strong></summary>
 
 - ⚔️ **Code Warrior**: Fighting through **Data Structures & Algorithms** in C++  
@@ -32,7 +32,6 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="coding gif" />
 </p>
 
-</details>
 
 
 ---
