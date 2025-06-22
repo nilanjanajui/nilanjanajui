@@ -12,6 +12,10 @@ Hi there! I'm a passionate **Computer Science & Engineering** student at **CU**,
 
 I turn logic into code and imagination into innovation—one bug at a time. 🐞💡
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="typing gif" />
+</p>
+
 ---
 
 <details>
@@ -35,6 +39,10 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 - 🎧 I debug better when my favorite playlist is on loop  
 - 📚 I’m always learning—**tech, design, life**, you name it  
 - 🛠️ I build not just apps, but also meaningful connections  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="250" alt="debugging gif" />
+</p>
 
 </details>
 
@@ -100,4 +108,8 @@ Want to collaborate, code, or just say hi? Let's connect:
 
 ---
 
-⭐ _Thanks for scrolling! If you liked anything here, don't forget to ⭐ your favorite projects!_
+<p align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="200" alt="peace out gif" />
+</p>
+
+⭐ _Thanks for scrolling! If you smiled while reading this, give a ⭐ to your favorite projects!_
