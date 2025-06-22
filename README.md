@@ -123,7 +123,7 @@ Want to collaborate, code, or just say hi? Let's connect:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="200" alt="peace out gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mnk1OTgxejY3NXFnbzNvems5bHRsY2RzYWxycm13YnhlZGJqeW45MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PXvCWUnmqVdks/giphy.gif" width="200" alt="peace out gif" />
 </p>
 
 ⭐ _Thanks for scrolling! If you smiled while reading this, give a ⭐ to your favorite projects!_
