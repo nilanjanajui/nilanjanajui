@@ -35,16 +35,20 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 <details>
 <summary>💡 <strong>Fun Facts About Me</strong></summary>
 
-- 🖥️ I see **segmentation faults** more than my own reflection!  
-- 🎧 I debug better when my favorite playlist is on loop  
-- 📚 I’m always learning—**tech, design, life**, you name it  
-- 🛠️ I build not just apps, but also meaningful connections  
+- 🖥️ I see **segmentation faults** more often than I see sunlight 🌞  
+- 🎧 My productivity graph spikes when my playlist hits the perfect beat  
+- 📚 I treat **Stack Overflow** like a second home  
+- 🔍 I once spent 2 hours debugging… just to realize I forgot a semicolon 😅  
+- 🐱 I name my bugs before I fix them (RIP Bugzilla, you were a tough one)  
+- 🧃 I drink code and debug like it’s a sport  
+- 🌈 I believe that creative bugs make creative coders  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="250" alt="debugging gif" />
+  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="300" alt="funny gif" />
 </p>
 
 </details>
+
 
 ---
 
