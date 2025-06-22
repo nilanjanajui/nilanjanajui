@@ -65,10 +65,10 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 |        🚀 Project       |     🔍 Description     |
 |-------------------------|------------------------|
-| [🔥 DSA & CP Challenges](https://github.com/nilanjanajui) | Solving algorithmic puzzles one line at a time! |
-| [📊 Engineering Drawing & Visualization](https://github.com/nilanjanajui) | When **geometry meets imagination**. CAD meets creativity! |
-| [💬 Java Social Platform](https://github.com/nilanjanajui) | A student-focused Java app blending UI & logic |
-| [🧠 Database System](https://github.com/nilanjanajui) | From ER modeling to complex SQL—data, meet logic |
+| [🔥 DSA & CP Challenges](https://github.com/nilanjanajui)                |             Solving algorithmic puzzles one line at a time! |
+| [📊 Engineering Drawing & Visualization](https://github.com/nilanjanajui)                  |                  When **geometry meets imagination**. CAD meets creativity! |
+| [💬 Java Social Platform](https://github.com/nilanjanajui)                          |                          A student-focused Java app blending UI & logic |
+| [🧠 Database System](https://github.com/nilanjanajui)                         |                            From ER modeling to complex SQL—data, meet logic |
 
 ---
 
