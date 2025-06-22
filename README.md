@@ -89,11 +89,12 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-### 🌱 Contribution Graph
+### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.ezra.wtf/api/v1/nilanjanajui?color=58A6FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=rogue" />
 </p>
+
 
 ---
 
