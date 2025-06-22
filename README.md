@@ -21,7 +21,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ---
 
 
-<summary>🎯 <strong>What I Love Doing</strong></summary>
+🎯 <strong>What I Love Doing</strong>
 
 
 - ⚔️ **Code Warrior**: Fighting through **Data Structures & Algorithms** in C++  
