@@ -2,7 +2,7 @@
 ## I’m Nilanjana Das Jui — on a mission to build and create. 🚀  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4U2Crwt02LzH2/giphy.gif" width="150" alt="space explorer waving gif" />
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="150" alt="space waving astronaut gif" />
 </p>
 
 > _"Code is poetry, debugging is an art, and GitHub is my canvas."_ 🎨💻  
