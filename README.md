@@ -21,6 +21,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 <summary>🎯 <strong>What I Love Doing</strong></summary>
 
+
 - ⚔️ **Code Warrior**: Fighting through **Data Structures & Algorithms** in C++  
 - 💬 **Social Builder**: Developing a Java-based **student platform**—coming soon!  
 - 🧠 **Database Explorer**: Crafting ER models, SQL queries & relational schemas  
@@ -36,8 +37,9 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-<details>
+
 <summary>💡 <strong>Fun Facts About Me</strong></summary>
+
 
 - 🖥️ I see **segmentation faults** more often than I see sunlight 🌞  
 - 🎧 My productivity graph spikes when my playlist hits the perfect beat  
@@ -52,7 +54,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN1a2w3NTJlc3M0a3U0Z2JoaXB3cDYxbTIzbnZodDhkczFsZThtaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fNBFa6NCMeZJm/giphy.gif" width="300" alt="funny gif" />
 </p>
 
-</details>
+
 
 
 ---
