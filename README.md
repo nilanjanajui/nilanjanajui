@@ -39,8 +39,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-
-<summary>💡 <strong>Fun Facts About Me</strong></summary>
+💡 <strong>Fun Facts About Me</strong>
 
 
 - 🖥️ I see **segmentation faults** more often than I see sunlight 🌞  
