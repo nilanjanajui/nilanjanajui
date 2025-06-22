@@ -37,7 +37,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 - 🌍 **Open Source Dev**: Sharing my work and growth openly on GitHub  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="coding gif" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="coding gif" />
 </p>
 
 
@@ -57,7 +57,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 - 🗄️ I once dreamed about **ER diagrams** and woke up trying to normalize my furniture!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpjMGpodW14OTdra3Bnbm41NGJ0NjcweWFyYXptcWcxdjI1OWZ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vlYBYMFArzuOk/giphy.gif" width="300" alt="funny gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpjMGpodW14OTdra3Bnbm41NGJ0NjcweWFyYXptcWcxdjI1OWZ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vlYBYMFArzuOk/giphy.gif" width="200" alt="funny gif" />
 </p>
 
 
