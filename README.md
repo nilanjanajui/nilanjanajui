@@ -28,7 +28,12 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 - 🌐 **Web Explorer**: Learning HTML/CSS to create magic on the web  
 - 🌍 **Open Source Dev**: Sharing my work and growth openly on GitHub  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="coding gif" />
+</p>
+
 </details>
+
 
 ---
 
