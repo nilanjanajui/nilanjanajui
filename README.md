@@ -41,7 +41,8 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 - 🔍 I once spent 2 hours debugging… just to realize I forgot a semicolon 😅  
 - 🐱 I name my bugs before I fix them (RIP Bugzilla, you were a tough one)  
 - 🧃 I drink code and debug like it’s a sport  
-- 🌈 I believe that creative bugs make creative coders  
+- 🌈 I believe that creative bugs make creative coders
+- 🗄️ I once dreamed about **ER diagrams** and woke up trying to normalize my furniture!
 
 <p align="center">
   <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="300" alt="funny gif" />
