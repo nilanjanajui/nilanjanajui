@@ -92,8 +92,9 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilanjanajui&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nilanjanajui&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
