@@ -87,15 +87,12 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="![GitHub Stats](https://github-readme-stats-nu-eight-64.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula)
-" />
-  <img src="![Top Langs](https://github-readme-stats-nu-eight-64.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula)
-" width="47%" />
+  <img src="https://github-readme-stats-nu-eight-64.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-nu-eight-64.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula" width="47%" />
 </p>
 
 <p align="center">
-  <img src="![Streak](https://streak-stats.demolab.com/?user=nilanjanajui&theme=dracula)
-" />
+  <img src="https://streak-stats.demolab.com/?user=nilanjanajui&theme=dracula" />
 </p>
 
 ---
