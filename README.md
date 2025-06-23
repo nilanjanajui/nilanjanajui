@@ -100,7 +100,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=dracula" />
 </p>
 
 ---
