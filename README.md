@@ -6,9 +6,7 @@
 
 ## I’m Nilanjana Das Jui — on a mission to build and create. 🚀  
 
-
 > _"Code is poetry, debugging is an art, and GitHub is my canvas."_ 🎨💻  
-
 
 ---
 
@@ -28,7 +26,6 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 🎯 <strong>What I Love Doing</strong>
 
-
 - ⚔️ **Code Warrior**: Fighting through **Data Structures & Algorithms** in C++  
 - 💬 **Social Builder**: Developing a Java-based **student platform**—coming soon!  
 - 🧠 **Database Explorer**: Crafting ER models, SQL queries & relational schemas  
@@ -40,12 +37,9 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="coding gif" />
 </p>
 
-
-
 ---
 
 💡 <strong>Fun Facts About Me</strong>
-
 
 - 🖥️ I see **segmentation faults** more often than I see sunlight 🌞  
 - 🎧 My productivity graph spikes when my playlist hits the perfect beat  
@@ -53,26 +47,23 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 - 🔍 I once spent 2 hours debugging… just to realize I forgot a semicolon 😅  
 - 🐱 I name my bugs before I fix them (RIP Bugzilla, you were a tough one)  
 - 🧃 I drink code and debug like it’s a sport  
-- 🌈 I believe that creative bugs make creative coders
+- 🌈 I believe that creative bugs make creative coders  
 - 🗄️ I once dreamed about **ER diagrams** and woke up trying to normalize my furniture!
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b211NGUzZGRncXNxNjYxeDBldDVneTA3NmI4ZjgyMGQweXVmcDZkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vcdbi5o470i9FACaZO/giphy.gif" width="200" alt="funny gif" />
 </p>
 
-
-
-
 ---
 
 ### 🏆 Featured Projects
 
-|        🚀 Project       |     🔍 Description     |
-|-------------------------|------------------------|
-| [🔥 DSA & CP Challenges](https://github.com/nilanjanajui)                |             Solving algorithmic puzzles one line at a time! |
-| [📊 Engineering Drawing & Visualization](https://github.com/nilanjanajui)                  |                  When **geometry meets imagination**. CAD meets creativity! |
-| [💬 Java Social Platform](https://github.com/nilanjanajui)                          |                          A student-focused Java app blending UI & logic |
-| [🧠 Database System](https://github.com/nilanjanajui)                         |                            From ER modeling to complex SQL—data, meet logic |
+| 🚀 Project | 🔍 Description |
+|-----------|----------------|
+| [🔥 DSA & CP Challenges](https://github.com/nilanjanajui) | Solving algorithmic puzzles one line at a time! |
+| [📊 Engineering Drawing & Visualization](https://github.com/nilanjanajui) | When **geometry meets imagination**. CAD meets creativity! |
+| [💬 Java Social Platform](https://github.com/nilanjanajui) | A student-focused Java app blending UI & logic |
+| [🧠 Database System](https://github.com/nilanjanajui) | From ER modeling to complex SQL—data, meet logic |
 
 ---
 
@@ -96,12 +87,12 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula" width="47%" />
+  <img src="https://github-readme-stats-nu-eight-64.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-nu-eight-64.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilanjanajui&theme=dracula" />
+  <img src="https://streak-stats.demolab.com/?user=nilanjanajui&theme=dracula" />
 </p>
 
 ---
@@ -111,7 +102,6 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=rogue" />
 </p>
-
 
 ---
 
@@ -136,8 +126,6 @@ Want to collaborate, code, or just say hi? Let's connect:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
-
-
 
 ---
 
