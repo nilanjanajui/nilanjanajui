@@ -95,15 +95,12 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilanjanajui&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nilanjanajui&theme=rogue" alt="GitHub Contribution Graph" />
-</p>
 ---
 
 ### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=rogue" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=tokyonight" />
 </p>
 
 ---
