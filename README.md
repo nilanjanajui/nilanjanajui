@@ -34,8 +34,8 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 - 🌍 **Open Source Dev**: Sharing knowledge & growing on GitHub  
 - ⚛️ **React DBMS Systems**: Interactive workflow & database-driven applications
 
-  <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b211NGUzZGRncXNxNjYxeDBldDVneTA3NmI4ZjgyMGQweXVmcDZkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vcdbi5o470i9FACaZO/giphy.gif" width="200" alt="funny gif" />
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="coding gif" />
 </p>
 
 ---
