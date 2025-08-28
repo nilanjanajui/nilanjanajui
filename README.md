@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmM3dGtpY3JweXBsOXAwb2RiMWw0c2dlcG5leDhscmUyeWd6bGw1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abooVPgeGpknXpu/giphy.gif" width="300" alt="typing gif" />
 </p>
 
-## I’m Nilanjana Das Jui — on a mission to build and create. 🚀  
+## I’m Nilanjana Das Jui — on a mission to build, create & innovate. 🚀  
 
 > _"Code is poetry, debugging is an art, and GitHub is my canvas."_ 🎨💻  
 
@@ -24,14 +24,15 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-🎯 <strong>What I Love Doing</strong>
+### 🎯 What I Love Doing
 
-- ⚔️ **Code Warrior**: Fighting through **Data Structures & Algorithms** in C++  
-- 💬 **Social Builder**: Developing a Java-based **student platform**—coming soon!  
-- 🧠 **Database Explorer**: Crafting ER models, SQL queries & relational schemas  
-- 🖌️ **Visual Creator**: Mixing engineering with art in **Drawing & Data Visualization**  
-- 🌐 **Web Explorer**: Learning HTML/CSS to create magic on the web  
-- 🌍 **Open Source Dev**: Sharing my work and growth openly on GitHub  
+- ⚔️ **Code Warrior**: Mastering **Data Structures & Algorithms** in C++  
+- 💬 **Social Builder**: Developing **Java-based student platforms**  
+- 🧠 **Database Explorer**: ER modeling, relational schemas & SQL systems  
+- 🖌️ **Visual Creator**: Engineering meets art in **drawing & data visualization**  
+- 🌐 **Web Explorer**: HTML, CSS & React-based dynamic interfaces  
+- 🌍 **Open Source Dev**: Sharing knowledge & growing on GitHub  
+- ⚛️ **React DBMS Systems**: Interactive workflow & database-driven applications  
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="coding gif" />
@@ -39,16 +40,16 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-💡 <strong>Fun Facts About Me</strong>
+### 💡 Fun Facts About Me
 
-- 🖥️ I see **segmentation faults** more often than I see sunlight 🌞  
-- 🎧 My productivity graph spikes when my playlist hits the perfect beat  
-- 📚 I treat **Stack Overflow** like a second home  
-- 🔍 I once spent 2 hours debugging… just to realize I forgot a semicolon 😅  
-- 🐱 I name my bugs before I fix them (RIP Bugzilla, you were a tough one)  
-- 🧃 I drink code and debug like it’s a sport  
-- 🌈 I believe that creative bugs make creative coders  
-- 🗄️ I once dreamed about **ER diagrams** and woke up trying to normalize my furniture!
+- 🖥️ I see **segmentation faults** more than sunlight 🌞  
+- 🎧 Productivity spikes with the perfect coding playlist  
+- 📚 Stack Overflow is my second home  
+- 🔍 Spent 2 hours debugging because I forgot a semicolon 😅  
+- 🐱 I name my bugs (RIP Bugzilla)  
+- 🧃 I drink code & debug like a sport  
+- 🌈 Creative bugs make creative coders  
+- 🗄️ Dream about **ER diagrams**, woke up normalizing my furniture!  
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b211NGUzZGRncXNxNjYxeDBldDVneTA3NmI4ZjgyMGQweXVmcDZkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vcdbi5o470i9FACaZO/giphy.gif" width="200" alt="funny gif" />
@@ -56,14 +57,15 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Projects & Works
 
-| 🚀 Project | 🔍 Description |
-|-----------|----------------|
-| [🔥 DSA & CP Challenges](https://github.com/nilanjanajui) | Solving algorithmic puzzles one line at a time! |
-| [📊 Engineering Drawing & Visualization](https://github.com/nilanjanajui) | When **geometry meets imagination**. CAD meets creativity! |
-| [💬 Java Social Platform](https://github.com/nilanjanajui) | A student-focused Java app blending UI & logic |
-| [🧠 Database System](https://github.com/nilanjanajui) | From ER modeling to complex SQL—data, meet logic |
+| 🚀 Project | 🔍 Description | 🌟 Highlights |
+|-----------|----------------|---------------|
+| [🔥 DSA & CP Challenges](https://github.com/nilanjanajui) | Algorithmic puzzles & competitive programming | C++ mastery, problem-solving speed |
+| [📊 Engineering Drawing & Visualization](https://github.com/nilanjanajui) | Geometry meets imagination, CAD & data visualization | Creativity & technical skills |
+| [💬 Java Social Platform](https://github.com/nilanjanajui) | Student-focused Java application | UI/UX, Java OOP concepts |
+| [🧠 Drug Network DB Mini](https://github.com/nilanjanajui) | ER modeling → normalization → SQL| Oracle & MySQL, DBMS integration |
+| [⚛️ React DBMS System Studio](https://github.com/nilanjanajui) | Interactive DBMS visualizer | Draggable nodes, live ER diagrams, action & workflow panels, code & table panels |
 
 ---
 
@@ -74,12 +76,15 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fish Shell-4F5D95?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
 ---
@@ -95,7 +100,6 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=nilanjanajui&theme=dracula" alt="GitHub Streak" />
 </p>
 
-
 ---
 
 ### 🌿 Contribution Graph
@@ -106,7 +110,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-### 🤝 Let's Build Together!
+### 🤝 Let’s Build Together!
 
 Want to collaborate, code, or just say hi? Let's connect:
 
