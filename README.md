@@ -83,7 +83,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 **Languages & Tools I Use:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,mysql,oracle,github,vscode,latex" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,mysql,sql,github,vscode,latex" />
 </p>
 
 ---
