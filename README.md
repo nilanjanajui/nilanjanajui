@@ -26,13 +26,23 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ### 🎯 What I Love Doing
 
-- ⚔️ **Code Warrior**: Mastering **Data Structures & Algorithms** in C++  
-- 💬 **Social Builder**: Developing **Java-based student platforms**  
-- 🧠 **Database Explorer**: ER modeling, relational schemas & SQL systems  
-- 🖌️ **Visual Creator**: Engineering meets art in **drawing & data visualization**  
-- 🌐 **Web Explorer**: HTML, CSS & React-based dynamic interfaces  
-- 🌍 **Open Source Dev**: Sharing knowledge & growing on GitHub  
-- ⚛️ **React DBMS Systems**: Interactive workflow & database-driven applications
+<p align="center">
+  <img src="https://img.shields.io/badge/⚔️-Code%20Warrior-blue?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/💬-Social%20Builder-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧠-Database%20Explorer-red?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/🖌️-Visual%20Creator-purple?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐-Web%20Explorer-cyan?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌍-Open%20Source%20Dev-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚛️-React%20DBMS%20Systems-yellow?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+<p align="center">
+  💡 Each badge represents a passion I live daily: coding, building apps, exploring databases, creating visuals, web dev, contributing to open-source, and building React-based DBMS tools.
+</p>
+
 
 
 
