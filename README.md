@@ -40,18 +40,10 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
   <img src="https://img.shields.io/badge/⚛️-React%20DBMS%20Systems-pink?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-
 <p align="center">
-  💡 These badges showcase my passions:  
-  - ⚔️ **Coding & DSA mastery**  
-  - 💬 **Building social/student apps**  
-  - 🧠 **Exploring databases & SQL**  
-  - 🖌️ **Engineering + creative visuals**  
-  - 🌐 **Web & frontend interfaces**  
-  - 🌍 **Open-source contributions**  
-  - 📊 **Data visualization & reporting**  
-  - ⚛️ **React DBMS interactive systems**
+  💡 These badges showcase my passions: ⚔️ <strong>Coding & DSA mastery</strong> | 💬 <strong>Building social/student apps</strong> | 🧠 <strong>Exploring databases & SQL</strong> | 🖌️ <strong>Engineering + creative visuals</strong> | 🌐 <strong>Web & frontend interfaces</strong> | 🌍 <strong>Open-source contributions</strong> | 📊 <strong>Data visualization & reporting</strong> | ⚛️ <strong>React DBMS interactive systems</strong>
 </p>
+
 
 
 
