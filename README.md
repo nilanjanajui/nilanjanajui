@@ -24,7 +24,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-### 🎯 What I Love Doing
+### ✨ What I Live to Build
 
 <p align="center">
   <img src="https://img.shields.io/badge/⚔️-Code%20Warrior-blue?style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -34,16 +34,23 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌐-Web%20Explorer-cyan?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐-Web%20Explorer-cyan?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/🌍-Open%20Source%20Dev-green?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚛️-React%20DBMS%20Systems-yellow?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/📊-Data%20Visualization-yellow?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚛️-React%20DBMS%20Systems-pink?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 <p align="center">
-  💡 Each badge represents a passion I live daily: coding, building apps, exploring databases, creating visuals, web dev, contributing to open-source, and building React-based DBMS tools.
+  💡 These badges showcase my passions:  
+  - ⚔️ **Coding & DSA mastery**  
+  - 💬 **Building social/student apps**  
+  - 🧠 **Exploring databases & SQL**  
+  - 🖌️ **Engineering + creative visuals**  
+  - 🌐 **Web & frontend interfaces**  
+  - 🌍 **Open-source contributions**  
+  - 📊 **Data visualization & reporting**  
+  - ⚛️ **React DBMS interactive systems**
 </p>
-
-
 
 
 ---
