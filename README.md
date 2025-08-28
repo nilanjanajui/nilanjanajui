@@ -27,26 +27,12 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ### ✨ What I Live to Build
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚔️-Code%20Warrior-blue?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/💬-Social%20Builder-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧠-Database%20Explorer-red?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/🖌️-Visual%20Creator-purple?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,react,html,css,js,mysql,oracle,figma" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌐-Web%20Explorer-cyan?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌍-Open%20Source%20Dev-green?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/📊-Data%20Visualization-yellow?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚛️-React%20DBMS%20Systems-pink?style=for-the-badge&logo=react&logoColor=white" />
+💡 These icons showcase my passions: coding & DSA mastery, building social/student apps, exploring databases & SQL, creating visuals, developing web interfaces, contributing to open-source, data visualization, and interactive React DBMS systems.
 </p>
-
-
-<p align="center">
-💡 These badges showcase my passions: I love ⚔️ coding & DSA mastery, 💬 building social/student apps, 🧠 exploring databases & SQL, 🖌️ creating engineering and creative visuals, 🌐 developing web & frontend interfaces, 🌍 contributing to open-source, 📊 doing data visualization & reporting, and ⚛️ building React DBMS interactive systems.
-</p>
-
-
-
 
 ---
 
@@ -75,26 +61,14 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 | [📊 Engineering Drawing & Visualization](https://github.com/nilanjanajui) | Geometry meets imagination, CAD & data visualization | Creativity & technical skills |
 | [💬 Java Social Platform](https://github.com/nilanjanajui) | Student-focused Java application | UI/UX, Java OOP concepts |
 | [🧠 Drug Network DB Mini](https://github.com/nilanjanajui) | ER modeling → normalization → SQL| Oracle & MySQL, DBMS integration |
-| [⚛️ React DBMS System Studio](https://github.com/nilanjanajui) | Interactive DBMS visualizer | Draggable nodes, live ER diagrams, action & workflow panels, code & table panels |
+| [⚛️ React DBMS System Studio](https://github.com/nilanjanajui) | Interactive DBMS visualizer | Draggable nodes, live ER diagrams, workflow panels, code & table panels |
 
 ---
 
 ### 🛠️ Tech Toolbox
 
-**Languages & Tools I Use:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,mysql,oracle,figma,github,vscode,latex" />
 </p>
 
 ---
@@ -102,12 +76,12 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nilanjanajui&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilanjanajui&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -115,31 +89,19 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=radical" />
 </p>
 
 ---
 
 ### 🤝 Let’s Build Together!
 
-Want to collaborate, code, or just say hi? Let's connect:
-
-<p align="left">
-  <a href="mailto:nilanjana.csecu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://x.com/Nilanjana_Jui04" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nilanjana-jui-759402286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/share/1ESuwQJ5bR/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.instagram.com/nilanjana.jui04/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+<p align="center">
+  <a href="mailto:nilanjana.csecu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://x.com/Nilanjana_Jui04"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/nilanjana-jui-759402286/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.facebook.com/share/1ESuwQJ5bR/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.instagram.com/nilanjana.jui04/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
