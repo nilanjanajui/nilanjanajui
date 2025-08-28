@@ -40,9 +40,13 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
   <img src="https://img.shields.io/badge/⚛️-React%20DBMS%20Systems-pink?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
+
 <p align="center">
 💡 These badges showcase my passions: I love ⚔️ coding & DSA mastery, 💬 building social/student apps, 🧠 exploring databases & SQL, 🖌️ creating engineering and creative visuals, 🌐 developing web & frontend interfaces, 🌍 contributing to open-source, 📊 doing data visualization & reporting, and ⚛️ building React DBMS interactive systems.
 </p>
+
+
+
 
 ---
 
@@ -98,12 +102,12 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilanjanajui&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nilanjanajui&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
@@ -111,7 +115,7 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ### 🌿 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nilanjanajui&theme=react" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=dracula" />
 </p>
 
 ---
