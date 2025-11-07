@@ -6,8 +6,6 @@
 
 ## I’m Nilanjana Das Jui — on a mission to build, create & innovate. 🚀  
 
-> _"Code is poetry, debugging is an art, and GitHub is my canvas."_ 🎨💻  
-
 ---
 
 ### 🌟 Who Am I?
