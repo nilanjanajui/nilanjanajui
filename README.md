@@ -40,7 +40,15 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 
 <p align="center">
-💡 These badges showcase my passions: I love ⚔️ coding & DSA mastery, 💬 building social/student apps, 🧠 exploring databases & SQL, 🖌️ creating engineering and creative visuals, 🌐 developing web & frontend interfaces, 🌍 contributing to open-source, 📊 doing data visualization & reporting, and ⚛️ building React DBMS interactive systems.
+💡 These badges showcase my passions: 
+  I love ⚔️ coding & DSA mastery, 
+  💬 building social/student apps, 
+  🧠 exploring databases & SQL, 
+  🖌️ creating engineering and creative visuals, 
+  🌐 developing web & frontend interfaces, 
+  🌍 contributing to open-source, 
+  📊 doing data visualization & reporting, and 
+  ⚛️ building React DBMS interactive systems.
 </p>
 
 
