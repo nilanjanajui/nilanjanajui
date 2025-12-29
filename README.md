@@ -99,12 +99,10 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 ### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula&v=1" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula" />
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula&v=1" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula" />
 </p>
-
-
 
 
 
