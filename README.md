@@ -98,13 +98,12 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ### 📊 GitHub Stats & Contributions
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula&cache_seconds=86400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula&cache_seconds=86400" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula)
-
-</div>
 
 
 
