@@ -96,7 +96,6 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
-
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
@@ -105,20 +104,21 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanaJui&layout=compact&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nilanjanaJui&theme=dracula)
-
 </div>
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nilanjanajui&theme=dracula" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🌿 Contribution Graph
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nilanjanaJui&theme=dracula)
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=dracula" />
+</p>
 
 ---
 
