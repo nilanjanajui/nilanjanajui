@@ -113,6 +113,27 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nilanjanajui&theme=dracula" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=nilanjanajui&color=blue" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies (shows top languages and achievements) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=nilanjanajui&theme=dracula&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+
+---
+
+
+
 ### 🌿 Contribution Graph
 
 <p align="center">
