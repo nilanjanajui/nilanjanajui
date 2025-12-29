@@ -96,29 +96,29 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
+
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilanjanaJui&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanaJui&layout=compact&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nilanjanaJui&theme=dracula)
 
 </div>
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nilanjanajui&theme=dracula" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 🌿 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=dracula" />
-</p>
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nilanjanaJui&theme=dracula)
+
+</div>
+
 
 ---
 
