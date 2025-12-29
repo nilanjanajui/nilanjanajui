@@ -100,9 +100,9 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilanjanaJui&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanaJui&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula)
 
 </div>
 
