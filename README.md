@@ -98,7 +98,6 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ### 📊 GitHub Stats & Contributions
 
-![Profile Views](https://komarev.com/ghpvc/?username=nilanjanajui&color=blue)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nilanjanajui&theme=dracula)
 
