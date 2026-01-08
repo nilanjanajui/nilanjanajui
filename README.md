@@ -83,17 +83,10 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ### 📊 GitHub Stats & Contributions
 
-### 📊 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nilanjanajui&theme=dracula" />
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=nilanjanajui&theme=dracula" alt="GitHub Streak" />
