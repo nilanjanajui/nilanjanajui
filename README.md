@@ -74,9 +74,9 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 **Languages & Tools I Use:**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Most%20Used%20Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,mysql,github,vscode,latex" />
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
-
 
 
 ---
@@ -131,6 +131,5 @@ Want to collaborate, code, or just say hi? Let's connect:
 
 ---
 
-
-
 ⭐ _Thanks for scrolling! If you smiled while reading this, give a ⭐ to your favorite projects!_
+
