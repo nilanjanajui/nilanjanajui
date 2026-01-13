@@ -81,6 +81,16 @@ I turn logic into code and imagination into innovation—one bug at a time. 🐞
 
 ---
 
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+
 ### 📊 GitHub Stats & Contributions
 
 
