@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmM3dGtpY3JweXBsOXAwb2RiMWw0c2dlcG5leDhscmUyeWd6bGw1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abooVPgeGpknXpu/giphy.gif" width="300" alt="typing gif" />
 </p>
 
-## I’m Nilanjana Das Jui — on a mission to build, create & innovate. 🚀  
+## I’m Nilanjana Das Jui - on a mission to build, create & innovate. 🚀  
 
 ---
 
@@ -13,7 +13,7 @@
 Hi there! I'm a passionate **Computer Science & Engineering** student at **CU**, driven by:  
 💡 **Curiosity** | 🎨 **Creativity** | ☕ **Caffeine**
 
-I turn logic into code and imagination into innovation—one bug at a time. 🐞💡
+I turn logic into code and imagination into innovation - one bug at a time. 🐞💡
 
 
 <p align="center">
