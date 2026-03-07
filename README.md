@@ -39,7 +39,6 @@ I turn logic into code and imagination into innovation - one bug at a time. 🐞
   <img src="https://img.shields.io/badge/⚛️-React%20DBMS%20Systems-pink?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-
 ---
 
 ### 💡 Fun Facts About Me
