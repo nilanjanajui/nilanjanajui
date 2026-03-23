@@ -21,12 +21,12 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 
 | Project | Tech Stack | Description |
 |--------|------------|------------|
-| [DSA & Competitive Programming](https://github.com/nilanjanajui/Data-Structures) | C++, Algorithms | Algorithmic puzzles and competitive programming challenges for problem-solving mastery |
-| [Database Design Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | SQL, React, JavaScript | Studio for designing and visualizing database schemas, tables, and relationships |
-| [RoamRadar Project](https://github.com/nilanjanajui/RoamRadar-Travel-Guide) | JavaScript, React, HTML, CSS | Location-based project management and radar visualization application |
-| [React DBMS System Studio](https://github.com/nilanjanajui/react-dbms-system-studio) | React, JavaScript | Interactive DBMS visualizer with draggable nodes, live ER diagrams, and action panels |
-| [Java Social Platform](https://github.com/nilanjanajui/java-social-platform) | Java, OOP | Student-focused social platform with modern UI/UX and robust backend |
-| [Drug Network Database](https://github.com/nilanjanajui/drug-network-db-mini) | MySQL, Oracle | Database project featuring ER modeling, normalization, and SQL queries |
+| <a href="https://github.com/nilanjanajui/Data-Structures" target="_blank"><img src="https://img.shields.io/badge/DSA-CPP-blue?style=for-the-badge&logo=c%2B%2B" title="DSA & Competitive Programming"></a> | C++, Algorithms | Algorithmic puzzles and competitive programming challenges for problem-solving mastery |
+| <a href="https://github.com/nilanjanajui/Project--DataBase-Design-Studio" target="_blank"><img src="https://img.shields.io/badge/Database-Design-Studio-orange?style=for-the-badge&logo=postgresql" title="Database Design Studio"></a> | SQL, React, JavaScript | Studio for designing and visualizing database schemas, tables, and relationships |
+| <a href="https://github.com/nilanjanajui/RoamRadar-Travel-Guide" target="_blank"><img src="https://img.shields.io/badge/RoamRadar-JS-yellow?style=for-the-badge&logo=javascript" title="RoamRadar Project"></a> | JavaScript, React, HTML, CSS | Location-based project management and radar visualization application |
+| <a href="https://github.com/nilanjanajui/react-dbms-system-studio" target="_blank"><img src="https://img.shields.io/badge/React-DBMS-Studio-blue?style=for-the-badge&logo=react" title="React DBMS System Studio"></a> | React, JavaScript | Interactive DBMS visualizer with draggable nodes, live ER diagrams, and action panels |
+| <a href="https://github.com/nilanjanajui/java-social-platform" target="_blank"><img src="https://img.shields.io/badge/Java-Social-Platform-red?style=for-the-badge&logo=java" title="Java Social Platform"></a> | Java, OOP | Student-focused social platform with modern UI/UX and robust backend |
+| <a href="https://github.com/nilanjanajui/drug-network-db-mini" target="_blank"><img src="https://img.shields.io/badge/Drug-Network-DB-green?style=for-the-badge&logo=mysql" title="Drug Network Database"></a> | MySQL, Oracle | Database project featuring ER modeling, normalization, and SQL queries |
 
 ---
 
@@ -72,8 +72,6 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 </a>
 </p>
 
-> The snake updates automatically daily via the [`snake.yml` workflow](https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml).
-
 ---
 
 ## 🌱 Currently Learning
@@ -88,7 +86,7 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 ## 💡 Developer Philosophy
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> — Harold Abelson
+> - Harold Abelson
 
 ---
 
