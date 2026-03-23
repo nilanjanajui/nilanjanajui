@@ -1,5 +1,11 @@
+<!-- Animated Project Showcase -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Algorithms+%7C+Web+Development+%7C+Databases;Turning+Ideas+into+Software;Welcome+to+My+GitHub+Portfolio"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DSA+%26+Competitive+Programming;Database+Design+Studio;RoamRadar+Project;React+DBMS+System+Studio;Java+Social+Platform;Drug+Network+Database" alt="Project Showcase"/>
+</p>
+
+<!-- Typing Intro -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Turning+Ideas+into+Software" alt="Typing Intro"/>
 </p>
 
 <p align="center">
@@ -24,9 +30,7 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 | <a href="https://github.com/nilanjanajui/Data-Structures" target="_blank"><img src="https://img.shields.io/badge/DSA-CPP-blue?style=for-the-badge&logo=c%2B%2B" title="DSA & Competitive Programming"></a> | C++, Algorithms | Algorithmic puzzles and competitive programming challenges for problem-solving mastery |
 | <a href="https://github.com/nilanjanajui/Project--DataBase-Design-Studio" target="_blank"><img src="https://img.shields.io/badge/Database-Design-Studio-orange?style=for-the-badge&logo=postgresql" title="Database Design Studio"></a> | SQL, React, JavaScript | Studio for designing and visualizing database schemas, tables, and relationships |
 | <a href="https://github.com/nilanjanajui/RoamRadar-Travel-Guide" target="_blank"><img src="https://img.shields.io/badge/RoamRadar-JS-yellow?style=for-the-badge&logo=javascript" title="RoamRadar Project"></a> | JavaScript, React, HTML, CSS | Location-based project management and radar visualization application |
-| <a href="https://github.com/nilanjanajui/react-dbms-system-studio" target="_blank"><img src="https://img.shields.io/badge/React-DBMS-Studio-blue?style=for-the-badge&logo=react" title="React DBMS System Studio"></a> | React, JavaScript | Interactive DBMS visualizer with draggable nodes, live ER diagrams, and action panels |
-| <a href="https://github.com/nilanjanajui/java-social-platform" target="_blank"><img src="https://img.shields.io/badge/Java-Social-Platform-red?style=for-the-badge&logo=java" title="Java Social Platform"></a> | Java, OOP | Student-focused social platform with modern UI/UX and robust backend |
-| <a href="https://github.com/nilanjanajui/drug-network-db-mini" target="_blank"><img src="https://img.shields.io/badge/Drug-Network-DB-green?style=for-the-badge&logo=mysql" title="Drug Network Database"></a> | MySQL, Oracle | Database project featuring ER modeling, normalization, and SQL queries |
+
 
 ---
 
@@ -86,7 +90,7 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 ## 💡 Developer Philosophy
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> - Harold Abelson
+> — Harold Abelson
 
 ---
 
