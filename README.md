@@ -1,7 +1,7 @@
-<!-- HERO BANNER -->
+<!-- HERO BANNER / Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+Student;Algorithms+%7C+Web+Development+%7C+Databases;Turning+Ideas+Into+Software;Welcome+to+My+GitHub+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+Student;Algorithms+%7C+Web+Development+%7C+Databases;Turning+Ideas+into+Software;Welcome+to+My+GitHub+Profile"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 📍 University of Chittagong
 
 I enjoy building software that combines **logic, creativity, and problem solving**.
-From **competitive programming** to **interactive developer tools**, I like exploring new technologies and improving my skills.
+From **algorithmic challenges** to **interactive developer tools**, I like to explore, learn, and create.
 
 ### Interests
 
@@ -25,6 +25,19 @@ From **competitive programming** to **interactive developer tools**, I like expl
 * 🗄 Database Systems
 * 🎨 Data Visualization
 * 🧩 Software Design
+
+---
+
+# 🏆 Featured Projects
+
+| Project                           | Demo / GIF                                                                          | Tech Stack        |
+| --------------------------------- | ----------------------------------------------------------------------------------- | ----------------- |
+| **React DBMS System Studio**      | <img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif" width="200"/> | React, JavaScript |
+| **Java Social Platform**          | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/> | Java, OOP         |
+| **Drug Network Database**         | <img src="https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="200"/> | MySQL, Oracle     |
+| **DSA & Competitive Programming** | <img src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" width="200"/> | C++, Algorithms   |
+
+> **Tip:** Click the project names to visit the repository directly (link your actual GitHub repos).
 
 ---
 
@@ -51,78 +64,7 @@ From **competitive programming** to **interactive developer tools**, I like expl
 
 ---
 
-# 🚀 Project Showcase
-
-### ⚛️ React DBMS System Studio
-
-Interactive tool to visualize database structures.
-
-**Features**
-
-* Draggable ER diagrams
-* Schema visualization panels
-* Database workflow tools
-* Table relationship mapping
-
-**Tech Stack**
-
-`React` `JavaScript` `UI Systems`
-
-Repository
-https://github.com/nilanjanajui
-
----
-
-### 💬 Java Social Platform
-
-Student-focused communication platform.
-
-**Features**
-
-* Post system
-* User interaction flow
-* Object-oriented architecture
-
-**Tech**
-
-`Java` `OOP`
-
-Repository
-https://github.com/nilanjanajui
-
----
-
-### 🧠 Drug Network Database
-
-Database project focused on **ER modeling and normalization**.
-
-**Concepts**
-
-* Entity Relationship Diagrams
-* SQL Schema Design
-* Database Normalization
-
-Repository
-https://github.com/nilanjanajui
-
----
-
-### 🔥 DSA & Competitive Programming
-
-Collection of algorithm solutions and coding challenges.
-
-**Focus**
-
-* C++ Problem Solving
-* Data Structures
-* Competitive Programming
-
-Repository
-https://github.com/nilanjanajui
-
----
-
-# 📊 Developer Dashboard
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -142,18 +84,10 @@ https://github.com/nilanjanajui
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=tokyo-night"/>
-</p>
-
----
-
-# 🧠 Coding Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nilanjanajui&theme=tokyonight"/>
 </p>
 
 ---
@@ -163,6 +97,8 @@ https://github.com/nilanjanajui
 <p align="center">
 <img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg"/>
 </p>
+
+> ⚠️ Make sure the snake workflow exists in `.github/workflows/snake.yml` to render properly.
 
 ---
 
@@ -206,4 +142,4 @@ https://github.com/nilanjanajui
 
 ---
 
-⭐ If you like my work, feel free to **explore my repositories and give a star!**
+⭐ **Explore my repositories and give a star if you like my work!**
