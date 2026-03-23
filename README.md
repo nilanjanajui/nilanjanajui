@@ -8,23 +8,16 @@
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎓 Computer Science & Engineering Student  
 📍 University of Chittagong  
 
-I enjoy building software that combines **logic, creativity, and problem solving**.  
-
-### Interests
-- ⚡ Competitive Programming  
-- 🌐 Web Development  
-- 🗄 Database Systems  
-- 🎨 Data Visualization  
-- 🧩 Software Design  
+I build **efficient, scalable, and creative software**. My focus areas include **competitive programming, web apps, databases, and data visualization**.  
 
 ---
 
-# 🏆 Featured Projects
+## 🏆 Featured Projects
 
 | Project | Tech Stack |
 |--------|------------|
@@ -35,16 +28,16 @@ I enjoy building software that combines **logic, creativity, and problem solving
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,mysql,git,github,vscode,latex"/>
 <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=tokyonight&rank_icon=github"/>
@@ -53,7 +46,7 @@ I enjoy building software that combines **logic, creativity, and problem solving
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nilanjanajui&theme=tokyonight"/>
@@ -61,7 +54,7 @@ I enjoy building software that combines **logic, creativity, and problem solving
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=tokyo-night"/>
@@ -69,7 +62,7 @@ I enjoy building software that combines **logic, creativity, and problem solving
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <a href="https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml">
@@ -77,9 +70,11 @@ I enjoy building software that combines **logic, creativity, and problem solving
 </a>
 </p>
 
+> The snake updates automatically daily via the [`snake.yml` workflow](https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml).
+
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Advanced Data Structures & Algorithms  
 - Full Stack Web Development  
@@ -88,16 +83,16 @@ I enjoy building software that combines **logic, creativity, and problem solving
 
 ---
 
-# 💡 Developer Philosophy
+## 💡 Developer Philosophy
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
 > — Harold Abelson
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-<p>
+<p align="center">
 <a href="mailto:nilanjana.csecu@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
