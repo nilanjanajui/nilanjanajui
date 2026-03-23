@@ -53,6 +53,10 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 
 ## 🌱 Currently Learning
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="80" alt="Learning GIF"/>
+</p>
+
 - Advanced Data Structures & Algorithms  
 - Full Stack Web Development  
 - System Design Basics  
