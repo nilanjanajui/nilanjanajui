@@ -39,8 +39,8 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=tokyonight&rank_icon=github"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nilanjanajui&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nilanjanajui&theme=dracula"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=dracula"/>
 </p>
 
 ---
