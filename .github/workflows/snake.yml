@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 env:
@@ -13,20 +13,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
+      # Checkout repo
       - uses: actions/checkout@v3
 
-      # Step 2: Generate Snake SVG
+      # Generate contribution snake
       - uses: Platane/snk@v3
         with:
           github_user_name: nilanjanajui
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      # Step 3: Deploy to output branch using your GH_PAT
-      - uses: crazy-max/ghaction-github-pages@v3
+      # Deploy SVG to output branch using GH_PAT
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          github_token: ${{ secrets.GH_PAT }}
+          publish_dir: dist
+          publish_branch: output
           allow_empty_commit: true
-          token: ${{ secrets.GH_PAT }}
