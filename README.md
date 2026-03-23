@@ -1,16 +1,17 @@
+<div align="center">
+
+# 🚀 Welcome to My Universe!  
+
 <!-- Animated Project Showcase -->
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DSA+%26+Competitive+Programming;Database+Design+Studio;RoamRadar+Project;React+DBMS+System+Studio;Java+Social+Platform;Drug+Network+Database" alt="Project Showcase"/>
-</p>
 
 <!-- Typing Intro -->
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Turning+Ideas+into+Software" alt="Typing Intro"/>
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
+<br>
+<img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -19,7 +20,10 @@
 🎓 Computer Science & Engineering Student  
 📍 University of Chittagong  
 
-I build **efficient, scalable, and creative software**. My focus areas include **competitive programming, web apps, databases, and data visualization**.  
+I build **efficient, scalable, and creative software**.  
+Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualization**  
+
+> 💡 *Turning logic into interactive systems, one bug at a time.*
 
 ---
 
@@ -30,6 +34,9 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 | [DSA & Competitive Programming](https://github.com/nilanjanajui/Data-Structures) | C++, Algorithms | Algorithmic puzzles and competitive programming challenges for problem-solving mastery |
 | [Database Design Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | SQL, React, JavaScript | Studio for designing and visualizing database schemas, tables, and relationships |
 | [RoamRadar Project](https://github.com/nilanjanajui/RoamRadar-Travel-Guide) | JavaScript, React, HTML, CSS | Location-based project management and radar visualization application |
+| [React DBMS System Studio](https://github.com/nilanjanajui/react-dbms-system-studio) | React, JavaScript | Interactive DBMS visualizer with draggable nodes, live ER diagrams, and action panels |
+| [Java Social Platform](https://github.com/nilanjanajui/java-social-platform) | Java, OOP | Student-focused social platform with modern UI/UX and robust backend |
+| [Drug Network Database](https://github.com/nilanjanajui/drug-network-db-mini) | MySQL, Oracle | Database project featuring ER modeling, normalization, and SQL queries |
 
 ---
 
@@ -39,6 +46,15 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,mysql,git,github,vscode,latex"/>
 <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms  
+- Full Stack Web Development  
+- System Design Basics  
+- Open Source Contribution  
 
 ---
 
@@ -77,12 +93,14 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 
 ---
 
-## 🌱 Currently Learning
+## 🏆 Competitive Programming Profiles
 
-- Advanced Data Structures & Algorithms  
-- Full Stack Web Development  
-- System Design Basics  
-- Open Source Contribution  
+<p align="center">
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nilanjanajui)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nilanjanajui)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nilanjanajui)  
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nilanjanajui)
+</p>
 
 ---
 
@@ -93,21 +111,18 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="mailto:nilanjana.csecu@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/nilanjana-jui-759402286/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://x.com/Nilanjana_Jui04">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-
 <a href="https://www.instagram.com/nilanjana.jui04/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -115,4 +130,30 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 
 ---
 
-⭐ Explore my repositories and give a star if you like my work!
+## 🎵 Currently Jamming To
+
+<p align="center">
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your-spotify-username)
+</p>
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+</p>
+
+---
+
+## 😂 Random Tech Humor
+
+<p align="center">
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
+</p>
+
+---
+
+<div align="center">
+⭐ From [nilanjanajui](https://github.com/nilanjanajui) | Made with ❤️ and lots of ☕  
+</div>
