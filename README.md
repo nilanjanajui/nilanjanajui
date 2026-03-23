@@ -34,9 +34,6 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 | [DSA & Competitive Programming](https://github.com/nilanjanajui/Data-Structures) | C++, Algorithms | Algorithmic puzzles and competitive programming challenges for problem-solving mastery |
 | [Database Design Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | SQL, React, JavaScript | Studio for designing and visualizing database schemas, tables, and relationships |
 | [RoamRadar Project](https://github.com/nilanjanajui/RoamRadar-Travel-Guide) | JavaScript, React, HTML, CSS | Location-based project management and radar visualization application |
-| [React DBMS System Studio](https://github.com/nilanjanajui/react-dbms-system-studio) | React, JavaScript | Interactive DBMS visualizer with draggable nodes, live ER diagrams, and action panels |
-| [Java Social Platform](https://github.com/nilanjanajui/java-social-platform) | Java, OOP | Student-focused social platform with modern UI/UX and robust backend |
-| [Drug Network Database](https://github.com/nilanjanajui/drug-network-db-mini) | MySQL, Oracle | Database project featuring ER modeling, normalization, and SQL queries |
 
 ---
 
@@ -91,13 +88,13 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 </a>
 </p>
 
-> The snake updates automatically daily via the [`snake.yml` workflow](https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml).
-
 ---
 
 ## 🌿 Developer Dashboard
 
+<p align="center">
 <a href="https://app.daily.dev/nilanjanadasjui"><img src="https://api.daily.dev/devcards/v2/UZKfu1G5atOL0SFmnCSHx.png?r=tvw&type=default" width="356" alt="Nilanjana Das Jui's Dev Card"/></a>
+</p>
 
 ---
 
@@ -127,6 +124,4 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 
 ---
 
-<div align="center">
-⭐ From [nilanjanajui](https://github.com/nilanjanajui) | Made with ❤️ and lots of ☕  
-</div>
+⭐ Explore my repositories and give a star if you like my work!
