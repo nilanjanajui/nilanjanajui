@@ -63,11 +63,7 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<a href="https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml">
-<img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</a>
-</p>
+<p align="center"> <a href="https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml"> <img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </a> </p>
 
 ---
 
