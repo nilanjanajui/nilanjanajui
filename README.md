@@ -70,8 +70,6 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 </a>
 </p>
 
-> The snake updates automatically daily via the [`snake.yml` workflow](https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml).
-
 ---
 
 ## 🌱 Currently Learning
