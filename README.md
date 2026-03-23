@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Algorithms+%7C+Web+Development+%7C+Databases;Turning+Ideas+into+Software;Welcome+to+My+GitHub+Profile"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Algorithms+%7C+Web+Development+%7C+Databases;Turning+Ideas+into+Software;Welcome+to+My+GitHub+Portfolio"/>
 </p>
 
 <p align="center">
@@ -24,6 +24,9 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 | [DSA & Competitive Programming](https://github.com/nilanjanajui/Data-Structures) | C++, Algorithms | Algorithmic puzzles and competitive programming challenges for problem-solving mastery |
 | [Database Design Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | SQL, React, JavaScript | Studio for designing and visualizing database schemas, tables, and relationships |
 | [RoamRadar Project](https://github.com/nilanjanajui/RoamRadar-Travel-Guide) | JavaScript, React, HTML, CSS | Location-based project management and radar visualization application |
+| [React DBMS System Studio](https://github.com/nilanjanajui/react-dbms-system-studio) | React, JavaScript | Interactive DBMS visualizer with draggable nodes, live ER diagrams, and action panels |
+| [Java Social Platform](https://github.com/nilanjanajui/java-social-platform) | Java, OOP | Student-focused social platform with modern UI/UX and robust backend |
+| [Drug Network Database](https://github.com/nilanjanajui/drug-network-db-mini) | MySQL, Oracle | Database project featuring ER modeling, normalization, and SQL queries |
 
 ---
 
@@ -61,13 +64,15 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <a href="https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml">
 <img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </a>
 </p>
+
+> The snake updates automatically daily via the [`snake.yml` workflow](https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml).
 
 ---
 
@@ -83,7 +88,7 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 ## 💡 Developer Philosophy
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> - Harold Abelson
+> — Harold Abelson
 
 ---
 
