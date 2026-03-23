@@ -1,85 +1,30 @@
-# 👋 Hi, I'm Nilanjana Das Jui
+<!-- HERO BANNER -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Algorithms+%7C+Web+Development+%7C+Databases;Turning+Ideas+into+Software;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+Student;Algorithms+%7C+Web+Development+%7C+Databases;Turning+Ideas+Into+Software;Welcome+to+My+GitHub+Profile" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-🎓 **CSE Student — University of Chittagong**
-🚀 Passionate about **problem solving, web applications, and database systems**
+🎓 **Computer Science & Engineering Student**
+📍 University of Chittagong
 
-I love transforming **logic into code and imagination into software**.
-From solving algorithmic challenges to building interactive developer tools, I enjoy learning and creating.
+I enjoy building software that combines **logic, creativity, and problem solving**.
+From **competitive programming** to **interactive developer tools**, I like exploring new technologies and improving my skills.
 
-**Things I enjoy building**
+### Interests
 
-* ⚡ Algorithmic problem solving
-* 🌐 Interactive web applications
-* 🗄️ Database modeling & ER design
-* 🎨 Data visualization tools
-* 🧩 Developer utilities
-
----
-
-# 🚀 Featured Projects
-
-### ⚛️ React DBMS System Studio
-
-Interactive tool to visualize database structures.
-
-**Features**
-
-* Draggable ER diagrams
-* Database workflow panels
-* Table & schema visualization
-* Interactive UI system
-
-**Tech**
-
-`React` `JavaScript` `Database Modeling`
-
----
-
-### 💬 Java Social Platform
-
-Student-focused social communication platform.
-
-**Highlights**
-
-* Object-oriented design
-* Post and interaction system
-* Java-based architecture
-
----
-
-### 🧠 Drug Network Database System
-
-Database project focused on **ER modeling and normalization**.
-
-**Concepts**
-
-* Entity relationship modeling
-* SQL schema design
-* Database normalization
-
----
-
-### 🔥 DSA & Competitive Programming
-
-Collection of algorithmic solutions and coding challenges.
-
-**Focus**
-
-* C++ problem solving
-* Data structures
-* Competitive programming
+* ⚡ Competitive Programming
+* 🌐 Web Development
+* 🗄 Database Systems
+* 🎨 Data Visualization
+* 🧩 Software Design
 
 ---
 
@@ -103,6 +48,77 @@ Collection of algorithmic solutions and coding challenges.
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,latex"/>
 <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+---
+
+# 🚀 Project Showcase
+
+### ⚛️ React DBMS System Studio
+
+Interactive tool to visualize database structures.
+
+**Features**
+
+* Draggable ER diagrams
+* Schema visualization panels
+* Database workflow tools
+* Table relationship mapping
+
+**Tech Stack**
+
+`React` `JavaScript` `UI Systems`
+
+Repository
+https://github.com/nilanjanajui
+
+---
+
+### 💬 Java Social Platform
+
+Student-focused communication platform.
+
+**Features**
+
+* Post system
+* User interaction flow
+* Object-oriented architecture
+
+**Tech**
+
+`Java` `OOP`
+
+Repository
+https://github.com/nilanjanajui
+
+---
+
+### 🧠 Drug Network Database
+
+Database project focused on **ER modeling and normalization**.
+
+**Concepts**
+
+* Entity Relationship Diagrams
+* SQL Schema Design
+* Database Normalization
+
+Repository
+https://github.com/nilanjanajui
+
+---
+
+### 🔥 DSA & Competitive Programming
+
+Collection of algorithm solutions and coding challenges.
+
+**Focus**
+
+* C++ Problem Solving
+* Data Structures
+* Competitive Programming
+
+Repository
+https://github.com/nilanjanajui
 
 ---
 
@@ -159,7 +175,14 @@ Collection of algorithmic solutions and coding challenges.
 
 ---
 
-# 🤝 Let's Connect
+# 💡 Developer Philosophy
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”
+> — Harold Abelson
+
+---
+
+# 🤝 Connect With Me
 
 <p>
 
@@ -183,5 +206,4 @@ Collection of algorithmic solutions and coding challenges.
 
 ---
 
-⭐ **Thanks for visiting my GitHub!**
-If you like my work, feel free to **explore my repositories and leave a star.**
+⭐ If you like my work, feel free to **explore my repositories and give a star!**
