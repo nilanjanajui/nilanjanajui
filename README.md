@@ -1,5 +1,3 @@
-<!-- HERO BANNER / Typing Animation -->
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+Student;Algorithms+%7C+Web+Development+%7C+Databases;Turning+Ideas+into+Software;Welcome+to+My+GitHub+Profile"/>
 </p>
@@ -12,53 +10,35 @@
 
 # 👩‍💻 About Me
 
-🎓 **Computer Science & Engineering Student**
-📍 University of Chittagong
+🎓 Computer Science & Engineering Student  
+📍 University of Chittagong  
 
-I enjoy building software that combines **logic, creativity, and problem solving**.
-From **algorithmic challenges** to **interactive developer tools**, I like to explore, learn, and create.
+I enjoy building software that combines **logic, creativity, and problem solving**.  
 
 ### Interests
-
-* ⚡ Competitive Programming
-* 🌐 Web Development
-* 🗄 Database Systems
-* 🎨 Data Visualization
-* 🧩 Software Design
+- ⚡ Competitive Programming  
+- 🌐 Web Development  
+- 🗄 Database Systems  
+- 🎨 Data Visualization  
+- 🧩 Software Design  
 
 ---
 
 # 🏆 Featured Projects
 
-| Project                           | Demo / GIF                                                                          | Tech Stack        |
-| --------------------------------- | ----------------------------------------------------------------------------------- | ----------------- |
-| **React DBMS System Studio**      | <img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif" width="200"/> | React, JavaScript |
-| **Java Social Platform**          | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/> | Java, OOP         |
-| **Drug Network Database**         | <img src="https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="200"/> | MySQL, Oracle     |
-| **DSA & Competitive Programming** | <img src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" width="200"/> | C++, Algorithms   |
-
-> **Tip:** Click the project names to visit the repository directly (link your actual GitHub repos).
+| Project | Demo / GIF | Tech Stack |
+|--------|------------|------------|
+| **React DBMS System Studio** | <img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif" width="200"/> | React, JavaScript |
+| **Java Social Platform** | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/> | Java, OOP |
+| **Drug Network Database** | <img src="https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="200"/> | MySQL, Oracle |
+| **DSA & Competitive Programming** | <img src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" width="200"/> | C++, Algorithms |
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js"/>
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
-
-### Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,latex"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,mysql,git,github,vscode,latex"/>
 <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
@@ -67,11 +47,8 @@ From **algorithmic challenges** to **interactive developer tools**, I like to ex
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=tokyonight&rank_icon=github"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -98,22 +75,22 @@ From **algorithmic challenges** to **interactive developer tools**, I like to ex
 <img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg"/>
 </p>
 
-> ⚠️ Make sure the snake workflow exists in `.github/workflows/snake.yml` to render properly.
+> ⚠️ Make sure the workflow `.github/workflows/snake.yml` is present and GH_PAT is configured.
 
 ---
 
 # 🌱 Currently Learning
 
-* Advanced **Data Structures & Algorithms**
-* **Full Stack Web Development**
-* **System Design Basics**
-* **Open Source Contribution**
+- Advanced Data Structures & Algorithms  
+- Full Stack Web Development  
+- System Design Basics  
+- Open Source Contribution  
 
 ---
 
 # 💡 Developer Philosophy
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.”
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
 > — Harold Abelson
 
 ---
@@ -121,7 +98,6 @@ From **algorithmic challenges** to **interactive developer tools**, I like to ex
 # 🤝 Connect With Me
 
 <p>
-
 <a href="mailto:nilanjana.csecu@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -137,9 +113,8 @@ From **algorithmic challenges** to **interactive developer tools**, I like to ex
 <a href="https://www.instagram.com/nilanjana.jui04/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-⭐ **Explore my repositories and give a star if you like my work!**
+⭐ Explore my repositories and give a star if you like my work!
