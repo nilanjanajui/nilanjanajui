@@ -58,10 +58,10 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 </p>
 
 <p align="center">
-💻 **Web Development:** JavaScript, React, HTML, CSS, Responsive Design  
-📊 **Data & Algorithms:** Advanced Data Structures & Algorithms, Problem Solving  
-🖥️ **Full Stack & System Design:** Node.js, Express, Database Design, System Design Basics  
-🌍 **Open Source:** Contributing to real-world projects, Git/GitHub best practices
+- 💻 **Web Development:** JavaScript, React, HTML, CSS, Responsive Design  
+- 📊 **Data & Algorithms:** Advanced Data Structures & Algorithms, Problem Solving  
+- 🖥️ **Full Stack & System Design:** Node.js, Express, Database Design, System Design Basics  
+- 🌍 **Open Source:** Contributing to real-world projects, Git/GitHub best practices
 </p>
 
 ---
