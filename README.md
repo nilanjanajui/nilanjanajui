@@ -2,17 +2,14 @@
 
 # 🚀 Welcome to My Universe! 
 
-
-<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="80" alt="Hi GIF"/>
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-<!-- Typing Intro -->
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Turning+Ideas+into+Software" alt="Typing Intro"/>
+</p>
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
 
 </div>
 
