@@ -91,15 +91,14 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 </a>
 </p>
 
+> The snake updates automatically daily via the [`snake.yml` workflow](https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml).
+
 ---
 
-## 🏆 Competitive Programming Profiles
+## 🌿 Developer Dashboard
 
 <p align="center">
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nilanjanajui)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nilanjanajui)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nilanjanajui)  
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nilanjanajui)
+  <a href="https://app.daily.dev/nilanjanajui"><img src="https://api.daily.dev/devcards/v2/your-devcard-id.png" width="356" alt="Nilanjana Das Jui's Dev Card"/></a>
 </p>
 
 ---
@@ -126,30 +125,6 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 <a href="https://www.instagram.com/nilanjana.jui04/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
-
----
-
-## 🎵 Currently Jamming To
-
-<p align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your-spotify-username)
-</p>
-
----
-
-## 💭 Random Dev Quote
-
-<p align="center">
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-</p>
-
----
-
-## 😂 Random Tech Humor
-
-<p align="center">
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
 </p>
 
 ---
