@@ -1,9 +1,12 @@
 <div align="center">
 
-# 🚀 Welcome to My Universe!  
+# 🚀 Welcome to My Universe! 
 
-<!-- Animated Project Showcase -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DSA+%26+Competitive+Programming;Database+Design+Studio;RoamRadar+Project;React+DBMS+System+Studio;Java+Social+Platform;Drug+Network+Database" alt="Project Showcase"/>
+
+<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="80" alt="Hi GIF"/>
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 <!-- Typing Intro -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Turning+Ideas+into+Software" alt="Typing Intro"/>
