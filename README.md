@@ -3,13 +3,8 @@
 # 🚀 Welcome to My Universe! 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Turning+Ideas+into+Software" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Turning+Ideas+into+Software" alt="Typing Intro"/>
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
 
 </div>
 
@@ -42,6 +37,12 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,mysql,git,github,vscode,latex"/>
 <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
