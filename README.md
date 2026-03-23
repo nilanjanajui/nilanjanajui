@@ -101,7 +101,7 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 ## 🌿 Developer Dashboard
 
 <p align="center">
-<a href="https://app.daily.dev/nilanjanajui"><img src="https://api.daily.dev/devcards/v2/UZKfu1G5atOL0SFmnCSHx.png?type=default&r=ne8" width="356" alt="Nilanjana Jui's Dev Card"/></a>
+<a href="https://app.daily.dev/nilanjanajui"><img src="https://api.daily.dev/devcards/v2/UZKfu1G5atOL0SFmnCSHx.png?type=default&r=liy" width="356" alt="Nilanjana Jui's Dev Card"/></a>
 </p>
 
 ---
