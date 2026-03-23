@@ -57,10 +57,12 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmMXB4Nzl5MTVmb3cxcmdnc3hmcmRndHgwNmRpajhzamxxeWR0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200" alt="Learning GIF"/>
 </p>
 
-- Advanced Data Structures & Algorithms  
-- Full Stack Web Development  
-- System Design Basics  
-- Open Source Contribution  
+<p align="center">
+💻 **Web Development:** JavaScript, React, HTML, CSS, Responsive Design  
+📊 **Data & Algorithms:** Advanced Data Structures & Algorithms, Problem Solving  
+🖥️ **Full Stack & System Design:** Node.js, Express, Database Design, System Design Basics  
+🌍 **Open Source:** Contributing to real-world projects, Git/GitHub best practices
+</p>
 
 ---
 
