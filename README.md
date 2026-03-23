@@ -21,9 +21,8 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 
 | Project | Tech Stack |
 |--------|------------|
-| [React DBMS System Studio](https://github.com/nilanjanajui/react-dbms-system-studio) | React, JavaScript |
+| [React DBMS System Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | React, JavaScript |
 | [Java Social Platform](https://github.com/nilanjanajui/java-social-platform) | Java, OOP |
-| [Drug Network Database](https://github.com/nilanjanajui/drug-network-db-mini) | MySQL, Oracle |
 | [DSA & Competitive Programming](https://github.com/nilanjanajui) | C++, Algorithms |
 
 ---
