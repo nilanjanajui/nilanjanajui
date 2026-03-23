@@ -19,11 +19,11 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 
 ## 🏆 Featured Projects
 
-| Project | Tech Stack |
-|--------|------------|
-| [React DBMS System Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | React, JavaScript |
-| [Java Social Platform](https://github.com/nilanjanajui/java-social-platform) | Java, OOP |
-| [DSA & Competitive Programming](https://github.com/nilanjanajui) | C++, Algorithms |
+| Project | Tech Stack | Description |
+|--------|------------|------------|
+| [DSA & Competitive Programming](https://github.com/nilanjanajui/Data-Structures) | C++, Algorithms | Algorithmic puzzles and competitive programming challenges for problem-solving mastery |
+| [Database Design Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | SQL, React, JavaScript | Studio for designing and visualizing database schemas, tables, and relationships |
+| [RoamRadar Project](https://github.com/nilanjanajui/RoamRadar-Travel-Guide) | JavaScript, React, HTML, CSS | Location-based project management and radar visualization application |
 
 ---
 
