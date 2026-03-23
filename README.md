@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkwemMyM3o4aHJ1ZW11b29sa3M3ZzJ3dXExeGJ4bXM5bDVjOXlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="300" alt="Hi GIF"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkwemMyM3o4aHJ1ZW11b29sa3M3ZzJ3dXExeGJ4bXM5bDVjOXlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="250" alt="Hi GIF"/>
 
 </div>
 
@@ -54,14 +54,13 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmMXB4Nzl5MTVmb3cxcmdnc3hmcmRndHgwNmRpajhzamxxeWR0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200" alt="Learning GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmMXB4Nzl5MTVmb3cxcmdnc3hmcmRndHgwNmRpajhzamxxeWR0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="180" alt="Learning GIF"/>
 </p>
 
-- 💻 **Web Development:** JavaScript, React, HTML, CSS, Responsive Design  
-- 📊 **Data & Algorithms:** Advanced Data Structures & Algorithms, Problem Solving  
-- 🖥️ **Full Stack & System Design:** Node.js, Express, Database Design, System Design Basics  
-- 🌍 **Open Source:** Contributing to real-world projects, Git/GitHub best practices
-
+- 💻 **Web Development:** JavaScript 🟩🟩🟩🟨, React 🟩🟩🟩🟨, HTML 🟩🟩🟩🟩, CSS 🟩🟩🟩🟨, Responsive Design 🟩🟩🟩  
+- 📊 **Data & Algorithms:** Advanced Data Structures 🟩🟩🟩🟩, Problem Solving 🟩🟩🟩🟨  
+- 🖥️ **Full Stack & System Design:** Node.js 🟩🟩🟨, Express 🟩🟩🟨, Database Design 🟩🟩🟩, System Design Basics 🟩🟩🟨  
+- 🌍 **Open Source:** Contributing to real-world projects 🟩🟩🟨, Git/GitHub best practices 🟩🟩🟩🟨
 ---
 
 ## 📊 GitHub Stats
@@ -101,7 +100,7 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 
 ## 🌿 Developer Dashboard
 
-<p align="center"
+<p align="center">
 <a href="https://app.daily.dev/nilanjanajui"><img src="https://api.daily.dev/devcards/v2/UZKfu1G5atOL0SFmnCSHx.png?type=default&r=ne8" width="356" alt="Nilanjana Jui's Dev Card"/></a>
 </p>
 
