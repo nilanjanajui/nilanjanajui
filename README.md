@@ -83,7 +83,7 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 ## 💡 Developer Philosophy
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> — Harold Abelson
+> - Harold Abelson
 
 ---
 
