@@ -71,8 +71,6 @@ I enjoy building software that combines **logic, creativity, and problem solving
 
 # 🐍 Contribution Snake
 
-# 🐍 Contribution Snake
-
 <p align="center">
 <a href="https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml">
 <img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
