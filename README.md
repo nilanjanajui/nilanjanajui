@@ -26,12 +26,12 @@ I enjoy building software that combines **logic, creativity, and problem solving
 
 # 🏆 Featured Projects
 
-| Project | Demo / GIF | Tech Stack |
-|--------|------------|------------|
-| [**React DBMS System Studio**](https://github.com/nilanjanajui/react-dbms-system-studio) | [<img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif" width="200"/>](https://github.com/nilanjanajui/react-dbms-system-studio) | React, JavaScript |
-| [**Java Social Platform**](https://github.com/nilanjanajui/java-social-platform) | [<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>](https://github.com/nilanjanajui/java-social-platform) | Java, OOP |
-| [**Drug Network Database**](https://github.com/nilanjanajui/drug-network-db-mini) | [<img src="https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="200"/>](https://github.com/nilanjanajui/drug-network-db-mini) | MySQL, Oracle |
-| [**DSA & Competitive Programming**](https://github.com/nilanjanajui) | [<img src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" width="200"/>](https://github.com/nilanjanajui) | C++, Algorithms |
+| Project | Tech Stack |
+|--------|------------|
+| [React DBMS System Studio](https://github.com/nilanjanajui/react-dbms-system-studio) | React, JavaScript |
+| [Java Social Platform](https://github.com/nilanjanajui/java-social-platform) | Java, OOP |
+| [Drug Network Database](https://github.com/nilanjanajui/drug-network-db-mini) | MySQL, Oracle |
+| [DSA & Competitive Programming](https://github.com/nilanjanajui) | C++, Algorithms |
 
 ---
 
@@ -71,11 +71,13 @@ I enjoy building software that combines **logic, creativity, and problem solving
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg"/>
-</p>
+# 🐍 Contribution Snake
 
-> ⚠️ Make sure the workflow `.github/workflows/snake.yml` is present and GH_PAT is configured.
+<p align="center">
+<a href="https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml">
+<img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</a>
+</p>
 
 ---
 
