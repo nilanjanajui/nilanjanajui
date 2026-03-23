@@ -2,28 +2,30 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # runs daily at midnight UTC
   workflow_dispatch:
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # fixes Node.js warning
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repo
       - uses: actions/checkout@v3
 
+      # Step 2: Generate contribution snake
       - uses: Platane/snk@v3
         with:
           github_user_name: nilanjanajui
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+      # Step 3: Deploy to `output` branch
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # no github_token input needed; default token is used automatically
