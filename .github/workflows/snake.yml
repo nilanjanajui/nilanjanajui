@@ -1,32 +1,38 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
+# Trigger daily at midnight UTC and on manual workflow dispatch
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 env:
+  # Ensures Node.js 24 is used for all JavaScript-based actions
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repo
-      - uses: actions/checkout@v3
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      # Generate contribution snake
-      - uses: Platane/snk@v3
+      # Step 2: Generate Contribution Snake SVG
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: nilanjanajui
           outputs: dist/github-contribution-grid-snake.svg
 
-      # Deploy SVG to output branch using GH_PAT
-      - name: Deploy to output branch
+      # Step 3: Deploy SVG to the output branch
+      - name: Deploy Snake to 'output' branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.GH_PAT }} # Make sure this PAT has repo: contents read & write
           publish_dir: dist
           publish_branch: output
           allow_empty_commit: true
+          keep_files: true
+          commit_message: "Auto-update Contribution Snake"
