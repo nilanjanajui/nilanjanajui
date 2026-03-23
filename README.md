@@ -54,7 +54,7 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmMXB4Nzl5MTVmb3cxcmdnc3hmcmRndHgwNmRpajhzamxxeWR0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="80" alt="Learning GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmMXB4Nzl5MTVmb3cxcmdnc3hmcmRndHgwNmRpajhzamxxeWR0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200" alt="Learning GIF"/>
 </p>
 
 - Advanced Data Structures & Algorithms  
