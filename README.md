@@ -27,10 +27,9 @@ I build **efficient, scalable, and creative software**. My focus areas include *
 
 | Project | Tech Stack | Description |
 |--------|------------|------------|
-| <a href="https://github.com/nilanjanajui/Data-Structures" target="_blank"><img src="https://img.shields.io/badge/DSA-CPP-blue?style=for-the-badge&logo=c%2B%2B" title="DSA & Competitive Programming"></a> | C++, Algorithms | Algorithmic puzzles and competitive programming challenges for problem-solving mastery |
-| <a href="https://github.com/nilanjanajui/Project--DataBase-Design-Studio" target="_blank"><img src="https://img.shields.io/badge/Database-Design-Studio-orange?style=for-the-badge&logo=postgresql" title="Database Design Studio"></a> | SQL, React, JavaScript | Studio for designing and visualizing database schemas, tables, and relationships |
-| <a href="https://github.com/nilanjanajui/RoamRadar-Travel-Guide" target="_blank"><img src="https://img.shields.io/badge/RoamRadar-JS-yellow?style=for-the-badge&logo=javascript" title="RoamRadar Project"></a> | JavaScript, React, HTML, CSS | Location-based project management and radar visualization application |
-
+| [DSA & Competitive Programming](https://github.com/nilanjanajui/Data-Structures) | C++, Algorithms | Algorithmic puzzles and competitive programming challenges for problem-solving mastery |
+| [Database Design Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | SQL, React, JavaScript | Studio for designing and visualizing database schemas, tables, and relationships |
+| [RoamRadar Project](https://github.com/nilanjanajui/RoamRadar-Travel-Guide) | JavaScript, React, HTML, CSS | Location-based project management and radar visualization application |
 
 ---
 
