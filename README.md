@@ -67,6 +67,7 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula&rank_icon=github"/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula"/>
 </p>
 
