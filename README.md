@@ -90,12 +90,6 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilanjanajui/YOUR_REPOSITORY_NAME/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 <p align="center">
 <a href="https://github.com/nilanjanajui/nilanjanajui/actions/workflows/snake.yml">
