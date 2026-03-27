@@ -1,13 +1,13 @@
 name: Generate Contribution Snake
 
-# Trigger daily at midnight UTC and on manual workflow dispatch
+# Trigger daily at midnight UTC and allow manual runs
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 env:
-  # Ensures Node.js 24 is used for all JavaScript-based actions
+  # Ensures Node.js 24 is used for JavaScript-based actions
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
@@ -19,18 +19,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate Contribution Snake SVG
+      # Step 2: Generate Contribution Snake SVG (GitHub dark theme)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: nilanjanajui
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Step 3: Deploy SVG to the output branch
+      # Step 3: Deploy generated SVG to the 'output' branch
       - name: Deploy Snake to 'output' branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAT }} # Make sure this PAT has repo: contents read & write
+          github_token: ${{ secrets.GH_PAT }}
           publish_dir: dist
           publish_branch: output
           allow_empty_commit: true
