@@ -116,7 +116,7 @@ Focus areas: **Competitive Programming | Web Apps | Databases | Data Visualizati
 ## 🌍 Portfolio
 
 <p align="center">
-<a href="https://your-portfolio-link.com">
+<a href="https://nilanjana-jui-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
