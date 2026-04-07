@@ -1,4 +1,3 @@
-
 <img width="1360" height="480" alt="nilanjana_banner" src="https://github.com/user-attachments/assets/c34f8746-403b-443c-9f6d-24c083a4136c" />
 
 
@@ -61,7 +60,6 @@ const nilanjana = {
 
 ---
 
-
 # 🧠 Developer Brain
 
 ```javascript
@@ -76,27 +74,88 @@ const developerBrain = {
 
 ---
 
-# 🏆 Featured Projects
-
-| Project                                                                                   | Tech Stack        | Description                                                |
-| ----------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------- |
-| [DSA & Competitive Programming](https://github.com/nilanjanajui/Data-Structures)          | C++, Algorithms   | Algorithmic puzzles and competitive programming challenges |
-| [Database Design Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | SQL, React        | Visual database schema design tool                         |
-| [RoamRadar](https://github.com/nilanjanajui/RoamRadar-Travel-Guide)                       | React, JavaScript | Location-based radar visualization application             |
-
----
-
-# 🛠 Tech Stack
+# 🛠️ Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,mysql,git,github,vscode,latex"/>
+### 💻 Languages
 
-<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+---
+
+### 🌐 Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6B6B?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🧩 Competitive Programming
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-6DB33F?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-8A2BE2?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
+---
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
+
+---
+
+### 📊 Skill Proficiency
+
+```
+Languages        ████████████████████░░   C++  ██████████████████░░░░   Java
+                 ████████████████░░░░░░   Python  ███████████████░░░░░░   JavaScript
+
+Frontend         ████████████████████░░   React  ██████████████████████   HTML/CSS
+
+Backend          ████████████░░░░░░░░░░   Node.js / Express
+
+Databases        ████████████████████░░   MySQL  ██████████████░░░░░░░░   Oracle
+
+CP & DSA         ████████████████████░░   Algorithms & Problem Solving
+```
+
+---
+
+# 🏆 Featured Projects
+
+| Project | Tech Stack | Description |
+| --- | --- | --- |
+| [DSA & Competitive Programming](https://github.com/nilanjanajui/Data-Structures) | C++, Algorithms | Algorithmic puzzles and competitive programming challenges |
+| [Database Design Studio](https://github.com/nilanjanajui/Project--DataBase-Design-Studio) | SQL, React | Visual database schema design tool |
+| [RoamRadar](https://github.com/nilanjanajui/RoamRadar-Travel-Guide) | React, JavaScript | Location-based radar visualization application |
 
 ---
 
@@ -150,7 +209,6 @@ function dailyRoutine() {
 
   sleep();
 }
-
 
 dailyRoutine();
 ```
@@ -213,7 +271,7 @@ dailyRoutine();
 
 # 💡 Developer Philosophy
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.”
+> "Programs must be written for people to read, and only incidentally for machines to execute."
 > — Harold Abelson
 
 ---
@@ -223,9 +281,7 @@ dailyRoutine();
 <div align="center">
 
 <a href="https://nilanjana-jui-portfolio.netlify.app/">
-
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel"/>
-
 </a>
 
 </div>
