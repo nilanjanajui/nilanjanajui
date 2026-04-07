@@ -1,14 +1,12 @@
-# 🚀 Welcome to My Universe!
-
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Competitive+Programmer+%7C+Web+Developer;Turning+Ideas+into+Software" />
-
-<br>
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkwemMyM3o4aHJ1ZW11b29sa3M3ZzJ3dXExeGJ4bXM5bDVjOXlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="250"/>
-
-</div>
+  # 🚀 Welcome to My Universe!
+  
+  <p align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Nilanjana+Das+Jui;Computer+Science+and+Engineering+Student;Turning+Ideas+into+Software" alt="Typing Intro"/> </p>
+    <br> 
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkwemMyM3o4aHJ1ZW11b29sa3M3ZzJ3dXExeGJ4bXM5bDVjOXlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="250" alt="Hi GIF"/> 
+    
+  </div>
 
 ---
 
@@ -94,6 +92,8 @@ const developerBrain = {
 ---
 
 # 🌱 Currently Learning
+
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmMXB4Nzl5MTVmb3cxcmdnc3hmcmRndHgwNmRpajhzamxxeWR0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="180" alt="Learning GIF"/> </p>
 
 ```javascript
 const learningPath = {
