@@ -12,7 +12,7 @@
 
 ---
 
-# 👩‍💻 Developer Profile
+# 👩‍💻 About Me
 
 ```javascript
 /**
