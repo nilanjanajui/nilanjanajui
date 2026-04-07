@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Nilanjana%20Das%20Jui&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-
-</div>
-
-# 🚀 Welcome to My Universe!
+# 🚀 Welcome to My Universe! 
 
 <div align="center">
 
@@ -18,7 +12,7 @@
 
 ---
 
-# 👩‍💻 Developer Profile
+# 👩‍💻 About Me
 
 ```javascript
 /**
@@ -61,6 +55,11 @@ const nilanjana = {
 
 ---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nilanjanajui&label=Profile%20Views&color=blueviolet&style=for-the-badge"/> </p>
+
+---
+
+
 # 🧠 Developer Brain
 
 ```javascript
@@ -100,6 +99,8 @@ const developerBrain = {
 ---
 
 # 🌱 Currently Learning
+
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmMXB4Nzl5MTVmb3cxcmdnc3hmcmRndHgwNmRpajhzamxxeWR0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="180" alt="Learning GIF"/> </p>
 
 ```javascript
 const learningPath = {
