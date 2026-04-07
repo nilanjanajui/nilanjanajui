@@ -69,10 +69,38 @@ const developer = {
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFmMXB4Nzl5MTVmb3cxcmdnc3hmcmRndHgwNmRpajhzamxxeWR0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="180" alt="Learning GIF"/>
 </p>
 
-- 💻 **Web Development:** JavaScript, React, HTML, CSS, Responsive Design 
-- 📊 **Data & Algorithms:** Advanced Data Structures, Problem Solvig  
-- 🖥️ **Full Stack & System Design:** Node.js, Express, Database Design, System Design Basics  
-- 🌍 **Open Source:** Contributing to real-world projects, Git/GitHub best practices
+## 🌱 Currently Learning
+
+```python
+learning_path = {
+    "Web Development": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS",
+        "Responsive Design"
+    ],
+
+    "Data Structures & Algorithms": [
+        "Advanced Data Structures",
+        "Competitive Programming",
+        "Problem Solving"
+    ],
+
+    "Full Stack Development": [
+        "Node.js",
+        "Express.js",
+        "Database Design",
+        "System Design Basics"
+    ],
+
+    "Open Source": [
+        "Contributing to real-world projects",
+        "Git and GitHub best practices"
+    ]
+}
+```
+
 ---
 
 ## 📊 GitHub Stats
