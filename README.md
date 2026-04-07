@@ -16,41 +16,24 @@
 
 ## 👩‍💻 About Me
 
-```yaml
-developer:
-  name: Nilanjana Das Jui
-  role: Computer Science & Engineering Student
-  university: University of Chittagong
-  location: Chittagong, Bangladesh
+```javascript
+const developer = {
+  name: "Nilanjana Das Jui",
+  role: "Computer Science & Engineering Student",
+  university: "University of Chittagong",
+  location: "Chittagong, Bangladesh",
 
-  focus_areas:
-    - Competitive Programming
-    - Web Application Development
-    - Database Systems
-    - Data Visualization
+  focusAreas: [
+    "Competitive Programming",
+    "Web Application Development",
+    "Database Systems",
+    "Data Visualization"
+  ],
 
-  skills:
-    languages:
-      - C++
-      - Java
-      - Python
-      - JavaScript
-    frontend:
-      - HTML
-      - CSS
-      - React
-    databases:
-      - MySQL
-      - Oracle
-    tools:
-      - Git
-      - GitHub
-      - VS Code
-      - LaTeX
+  mission: "Building efficient, scalable, and creative software",
 
-  mission: "Build efficient, scalable, and creative software."
-
-  philosophy: "Turning logic into interactive systems, one bug at a time."
+  philosophy: "Turning logic into interactive systems, one bug at a time"
+};
 ```
 
 ---
