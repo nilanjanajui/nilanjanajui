@@ -156,11 +156,12 @@ const developerBrain = {
 
 # 🏆 Featured Projects
 
-| Project                       | Tech Stack                   | Description                |
-| ----------------------------- | ---------------------------- | -------------------------- |
-| SunCart                       | Next.js, MongoDB, BetterAuth | Summer eCommerce platform  |
-| DSA & Competitive Programming | C++, Algorithms              | Problem solving repository |
-| Database Design Studio        | SQL, React                   | Schema visualization tool  |
+| Project                       | Tech Stack                             | Description                                  |
+| ----------------------------- | -------------------------------------- | -------------------------------------------- |
+| [SunCart](https://ph-assignment-08-suncart-83dg.vercel.app) | Next.js, MongoDB, BetterAuth | Summer eCommerce platform |
+| [Wizarding World](https://wizarding-world-sooty.vercel.app/) | React, Framer Motion, Tailwind CSS v4 | Harry Potter companion web app |
+| DSA & Competitive Programming | C++, Algorithms                        | Problem solving repository                   |
+| [Database Design Studio](https://database-design-studio.netlify.app/) | Flask, React, Python | Schema visualization tool |
 
 ---
 
