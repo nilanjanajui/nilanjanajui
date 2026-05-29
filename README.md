@@ -146,17 +146,6 @@ const developerBrain = {
 | [Database Design Studio](https://database-design-studio.netlify.app/) | Flask, React, Python                  | Database Schema Visualization Tool |
 | DSA & Competitive Programming                                         | C++, Algorithms                       | Problem Solving Repository         |
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nilanjanajui&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjanajui&layout=compact&theme=dracula&hide_border=true"/>
-
-</div>
 
 ---
 
