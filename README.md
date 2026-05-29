@@ -23,21 +23,44 @@
 ```javascript
 const nilanjana = {
   name: "Nilanjana Das Jui",
-  role: "Computer Science & Engineering Student",
-  university: "University of Chittagong",
+
+  title: "Computer Science & Engineering Student",
+
   location: "Chattogram, Bangladesh",
 
-  code: ["C++", "Java", "Python", "JavaScript"],
+  education: {
+    university: "University of Chittagong",
+    major: "Computer Science & Engineering"
+  },
 
-  technologies: {
+  passions: [
+    "Competitive Programming",
+    "Full Stack Development",
+    "Database Systems",
+    "System Design",
+    "Open Source"
+  ],
+
+  currentlyBuilding: [
+    "Database Design Studio",
+    "Full Stack Web Applications",
+    "Interactive Data Visualization Tools"
+  ],
+
+  currentlyLearning: [
+    "Advanced Data Structures",
+    "Scalable System Design",
+    "Modern Backend Architecture"
+  ],
+
+  techStack: {
+    languages: ["C++", "Java", "Python", "JavaScript"],
+
     frontend: [
       "React",
       "Next.js",
-      "HTML",
-      "CSS",
       "Tailwind CSS",
-      "HeroUI",
-      "Animate.css"
+      "HeroUI"
     ],
 
     backend: [
@@ -46,38 +69,28 @@ const nilanjana = {
       "BetterAuth"
     ],
 
-    database: [
-      "MongoDB Atlas",
+    databases: [
+      "MongoDB",
       "MySQL",
       "Oracle"
-    ],
-
-    tools: [
-      "Git",
-      "GitHub",
-      "VS Code",
-      "LaTeX",
-      "Vercel"
     ]
   },
 
-  interests: [
-    "Competitive Programming",
-    "Web Development",
+  strengths: [
+    "Problem Solving",
     "Database Design",
-    "Data Visualization"
+    "Algorithmic Thinking",
+    "Building User-Centered Applications"
   ],
 
-  currentlyLearning: [
-    "Advanced Data Structures",
-    "System Design",
-    "Full Stack Development",
-    "Open Source"
-  ],
+  funFact:
+    "I enjoy transforming complex ideas into interactive software solutions.",
 
-  motto: "Turning logic into interactive systems 🚀"
+  motto:
+    "Turning logic into scalable and meaningful digital experiences 🚀"
 };
 ```
+
 
 ---
 
