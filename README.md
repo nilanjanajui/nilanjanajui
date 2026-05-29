@@ -20,39 +20,55 @@
 
 # 👩‍💻 About Me
 
-```bash
-> whoami
+```javascript
+const nilanjana = {
+  👩‍💻 name: "Nilanjana Das Jui",
+  🎓 education: "B.Sc. in Computer Science & Engineering",
+  🏫 university: "University of Chittagong",
+  📍 location: "Chattogram, Bangladesh",
 
-Nilanjana Das Jui
-Computer Science & Engineering Student
-University of Chittagong
+  💡 interests: [
+    "Competitive Programming",
+    "Full Stack Development",
+    "Database Design",
+    "System Design",
+    "Open Source"
+  ],
 
-> interests
+  🚀 currentlyBuilding: [
+    "Database Design Studio",
+    "Modern Full Stack Applications",
+    "Data Visualization Tools"
+  ],
 
-Competitive Programming
-Full Stack Development
-Database Systems
-Open Source
+  📚 currentlyLearning: [
+    "Advanced Data Structures",
+    "System Design",
+    "Backend Architecture",
+    "Open Source Contributions"
+  ],
 
-> currently-working-on
+  🛠️ techStack: {
+    languages: ["C++", "Java", "Python", "JavaScript"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "HeroUI"],
+    backend: ["Node.js", "Express", "BetterAuth"],
+    databases: ["MongoDB", "MySQL", "Oracle"]
+  },
 
-• Database Design Studio
-• React & Next.js Applications
-• Advanced Data Structures
-• System Design
+  🎯 strengths: [
+    "Problem Solving",
+    "Algorithmic Thinking",
+    "Database Modeling",
+    "UI/UX Focused Development"
+  ],
 
-> favorite-stack
+  🌱 goal:
+    "Build software that is scalable, intuitive, and impactful.",
 
-Frontend : React + Next.js + Tailwind
-Backend  : Node.js + Express
-Database : MongoDB + Oracle + MySQL
-
-> life-philosophy
-
-"Every bug is a lesson.
-Every project is a step forward."
+  ⚡ motto:
+    "Turning logic into interactive systems, one commit at a time."
+};
 ```
-
 
 
 ---
