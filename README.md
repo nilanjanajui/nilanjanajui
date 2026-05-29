@@ -153,19 +153,20 @@ const developerBrain = {
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilanjanajui&theme=dracula" />
+
+</div>
+
+</br>
+
+<div align="center">
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nilanjanajui&theme=dracula" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilanjanajui&theme=dracula" />
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilanjanajui&theme=dracula" />
-
-</div>
 
 ---
 
