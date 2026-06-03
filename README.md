@@ -172,6 +172,40 @@ const developerBrain = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nilanjanajui/nilanjanajui/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 📊 Commit Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# ⚡ Contribution Overview
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nilanjanajui&theme=dracula&utcOffset=6" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nilanjanajui&theme=dracula" />
+
+</div>
+
+
+---
+
+
 # 🌍 Portfolio
 
 <div align="center">
