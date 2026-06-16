@@ -22,12 +22,12 @@
 
 ```javascript
 const nilanjana = {
-  👩‍💻 name: "Nilanjana Das Jui",
-  🎓 education: "B.Sc. in Computer Science & Engineering",
-  🏫 university: "University of Chittagong",
-  📍 location: "Chattogram, Bangladesh",
+   name: "Nilanjana Das Jui",
+   education: "B.Sc. in Computer Science & Engineering",
+   university: "University of Chittagong",
+   location: "Chattogram, Bangladesh",
 
-  💡 interests: [
+   interests: [
     "Competitive Programming",
     "Full Stack Development",
     "Database Design",
@@ -35,34 +35,34 @@ const nilanjana = {
     "Open Source"
   ],
 
-  🚀 currentlyBuilding: [
+   currentlyBuilding: [
     "Database Design Studio",
     "Modern Full Stack Applications",
     "Data Visualization Tools"
   ],
 
-  📚 currentlyLearning: [
+   currentlyLearning: [
     "Advanced Data Structures",
     "System Design",
     "Backend Architecture",
     "Open Source Contributions"
   ],
 
-  🛠️ techStack: {
+   techStack: {
     languages: ["C++", "Java", "Python", "JavaScript"],
     frontend: ["React", "Next.js", "Tailwind CSS", "HeroUI"],
     backend: ["Node.js", "Express", "BetterAuth"],
     databases: ["MongoDB", "MySQL", "Oracle"]
   },
 
-  🎯 strengths: [
+   strengths: [
     "Problem Solving",
     "Algorithmic Thinking",
     "Database Modeling",
     "UI/UX Focused Development"
   ],
 
-  🌱 goal:
+   goal:
     "Build software that is scalable, intuitive, and impactful.",
 
   ⚡ motto:
