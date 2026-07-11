@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./nilanjana-ascii.svg" width="450" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="470" alt="Experience, stack, highlights" /></td>
+<td valign="top"><img src="./info-card.svg" width="450" alt="Experience, stack, highlights" /></td>
 </tr>
 </table>
 
