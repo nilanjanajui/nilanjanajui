@@ -1,0 +1,62 @@
+<svg width="900" height="610" viewBox="0 0 900 610" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <style>
+      .titlebar { fill: #161b22; }
+      .body { fill: #0a0e14; }
+      .border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .wintitle { font-family: 'Fira Code', monospace; font-size: 12px; fill: #8b949e; }
+      .prompt { font-family: 'Fira Code', monospace; font-size: 15px; font-weight: 600; fill: #7ee787; }
+      .cmd { font-family: 'Fira Code', monospace; font-size: 15px; fill: #e6edf3; }
+      .story { font-family: 'Fira Code', monospace; font-size: 14px; fill: #a5d6ff; }
+      .cursor { fill: #7ee787; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="610" rx="16" class="body"/>
+  <rect x="0" y="0" width="900" height="610" rx="16" class="border"/>
+
+  <!-- Title bar -->
+  <path d="M0,16 A16,16 0 0 1 16,0 H884 A16,16 0 0 1 900,16 V40 H0 Z" class="titlebar"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="20" r="6" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" class="wintitle">nilanjana@dev: ~/about-me</text>
+
+  <!-- Accent bar -->
+  <rect x="0" y="40" width="5" height="570" fill="url(#barGrad)"/>
+
+  <!-- Prompt -->
+  <text x="40" y="78" class="prompt">$ <tspan class="cmd">cat about-me.md</tspan></text>
+
+  <!-- Paragraph 1: intro -->
+  <text x="40" y="113" class="story">Hi, I'm Nilanjana — a Computer Science and Engineering student at the University of Chittagong,</text>
+  <text x="40" y="137" class="story">currently in my 6th semester.</text>
+
+  <!-- Paragraph 2: origin story (new, summarized) -->
+  <text x="40" y="175" class="story">While earning my engineering degree, I found it fascinating how code turns into something that</text>
+  <text x="40" y="199" class="story">feels alive — that's what pulled me into development. I build full-stack web applications with</text>
+  <text x="40" y="223" class="story">React, Next.js, and MongoDB, and I care just as much about what's underneath: clean data models,</text>
+  <text x="40" y="247" class="story">solid auth, systems built to scale past a demo. My goal down the line is simple — to grow into a</text>
+  <text x="40" y="271" class="story">software engineer, not just a developer.</text>
+
+  <!-- Paragraph 3: projects -->
+  <text x="40" y="309" class="story">Right now I'm juggling two very different builds: J.A.R.V.I.S., a voice assistant powered by</text>
+  <text x="40" y="333" class="story">Groq's Llama 3.3 70B and ElevenLabs' text-to-speech, that listens, responds, and even reaches</text>
+  <text x="40" y="357" class="story">into my desktop to get things done — and RescueLink, a platform connecting volunteers to</text>
+  <text x="40" y="381" class="story">disaster relief missions when it counts, built on Next.js, TypeScript, and MongoDB.</text>
+  <text x="40" y="405" class="story">Behind me is UrbanNest, a full-stack property rental marketplace with three user roles, real</text>
+  <text x="40" y="429" class="story">Stripe payments, Google OAuth, and dashboards that actually mean something for owners and admins.</text>
+
+  <!-- Paragraph 4: the thread -->
+  <text x="40" y="467" class="story">If there's a thread running through it all, it's this: I want code that disappears into the</text>
+  <text x="40" y="491" class="story">experience — where the engineering discipline behind it never becomes the user's problem.</text>
+
+  <!-- Paragraph 5: closing -->
+  <text x="40" y="529" class="story">When I'm not coding, I'm probably debugging my own assumptions about a problem — one commit at</text>
+  <text x="40" y="553" class="story">a time.<tspan class="cursor"> ▍<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+
+</svg>
