@@ -1,5 +1,3 @@
-# <img width="1360" height="480" alt="nilanjana_banner" src="https://github.com/user-attachments/assets/c34f8746-403b-443c-9f6d-24c083a4136c" />
-
 <div align="center">
 
 <table>
