@@ -24,7 +24,7 @@
 # 👩‍💻 About Me
 
 <div align="center">
-<img src="./about-me.svg" width="860" alt="About me" />
+<img src="./about-me-terminal-card-v3.svg" width="900" alt="About me" />
 </div>
 
 
