@@ -88,13 +88,12 @@ const developerBrain = {
 
 # 🏆 Featured Projects
 
-| Project                                                               | Tech Stack                            | Description                        |
-| --------------------------------------------------------------------- | ------------------------------------- | ---------------------------------- |
-| [SunCart](https://ph-assignment-08-suncart-83dg.vercel.app)           | Next.js, MongoDB, BetterAuth          | Summer eCommerce Platform          |
-| [Wizarding World](https://wizarding-world-sooty.vercel.app/)          | React, Framer Motion, Tailwind CSS v4 | Harry Potter Companion Web App     |
-| [Database Design Studio](https://database-design-studio.netlify.app/) | Flask, React, Python                  | Database Schema Visualization Tool |
-| DSA & Competitive Programming                                         | C++, Algorithms                       | Problem Solving Repository         |
-
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **UrbanNest** | Next.js 15, React 19, MongoDB, Better Auth, Stripe, Tailwind CSS v4 | Production-grade property rental marketplace with role-based dashboards, booking workflow, and Stripe payments |
+| **RescueLink** | Next.js, TypeScript, Better Auth, Tailwind CSS | Disaster relief coordination platform connecting volunteers with active rescue missions |
+| **DriveFleet** | Next.js, MongoDB, Better Auth, Tailwind CSS v4 | Premium car rental platform featuring authentication, booking management, and advanced search |
+| **Database Design Studio** | Flask, React, Python | Interactive database schema visualization and design tool |
 
 ---
 
