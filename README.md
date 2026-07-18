@@ -90,10 +90,10 @@ const developerBrain = {
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **UrbanNest** | Next.js 15, React 19, MongoDB, Better Auth, Stripe, Tailwind CSS v4 | Production-grade property rental marketplace with role-based dashboards, booking workflow, and Stripe payments |
-| **RescueLink** | Next.js, TypeScript, Better Auth, Tailwind CSS | Disaster relief coordination platform connecting volunteers with active rescue missions |
-| **DriveFleet** | Next.js, MongoDB, Better Auth, Tailwind CSS v4 | Premium car rental platform featuring authentication, booking management, and advanced search |
-| **Database Design Studio** | Flask, React, Python | Interactive database schema visualization and design tool |
+| **[🏙️ UrbanNest](https://urbannest-property-rental-client.vercel.app)** | Next.js 15, React 19, MongoDB, Better Auth, Stripe, Tailwind CSS v4 | Production-grade property rental marketplace with role-based dashboards, booking workflow, Stripe payments, and revenue analytics |
+| **[🛟 RescueLink](https://rescuelink-client.vercel.app)** | Next.js, TypeScript, Better Auth, Tailwind CSS | Disaster relief coordination platform connecting volunteers with active rescue missions through role-based dashboards and real-time mission management |
+| **[🚗 DriveFleet](https://drivefleet-client-sigma.vercel.app)** | Next.js 16, MongoDB, Better Auth, Tailwind CSS v4 | Premium car rental platform featuring authentication, advanced search & filtering, booking management, and responsive dashboards |
+| **[🗄️ Database Design Studio](https://database-design-studio.netlify.app)** | Flask, React, Python | Interactive database schema visualization and design tool |
 
 ---
 
