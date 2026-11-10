@@ -136,18 +136,6 @@ const developerBrain = {
 
 </div>
 
----
-
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjanajui&theme=dracula&hide_border=true&area=true" />
-
-</div>
-
-
-
 
 ---
 
