@@ -31,12 +31,6 @@
 <img src="./about-me-terminal-card-v3.svg" width="900" alt="About me" />
 </div>
 
-I'm a Computer Science and Engineering student interested in building practical software that solves real-world problems.
-
-My current focus is full-stack web development, with an emphasis on modern frontend development, backend APIs, authentication, database-driven applications, and scalable application architecture.
-
-I also practice competitive programming to strengthen problem-solving, algorithms, and data-structure skills.
-
 ---
 
 # 🧩 What I Build
