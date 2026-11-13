@@ -266,17 +266,3 @@ I'm currently deepening my skills in:
 **Building, learning, and turning ideas into software.**
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
